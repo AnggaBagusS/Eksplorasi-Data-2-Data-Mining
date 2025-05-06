@@ -1,0 +1,1000 @@
+order_id,product_id,order_date,courier_delivery,city,district,type_of_delivery,estimated_delivery_time_days,product_rating,ontime
+738527,194,2022-12-12,JNE,Palembang,Bukit Kecil,Reguler,4,2,Ontime
+149822,268,2023-04-13,SiCepat,Yogyakarta,Terban,Same Day,5,5,Ontime
+635991,175,2023-01-01,JNE,Surabaya,Sambikerep,Same Day,4,3,Ontime
+221362,257,2023-05-15,POS Indonesia,Bekasi,Medan Satria,Express,4,1,Ontime
+687298,269,2022-07-30,JNE,Bandung,Cibeunying Kaler,Express,3,4,Ontime
+599035,191,2022-07-03,JNE,Yogyakarta,Gondomanan,Next Day,4,5,Ontime
+818755,112,2023-01-12,JNE,Surabaya,Wiyung,Next Day,3,3,Ontime
+564488,257,2022-12-04,JNE,Makassar,Manggala,Same Day,1,1,Ontime
+633998,228,2023-05-01,SiCepat,Depok,Cinere,Next Day,1,2,Ontime
+578132,198,2022-11-02,Ninja Xpress,Pekanbaru,Payung Sekaki,Next Day,4,3,Ontime
+693909,238,2023-02-24,Ninja Xpress,Palembang,Sukarami,Next Day,5,1,Ontime
+793402,235,2022-08-13,JNE,Malang,Turen,Reguler,3,1,Ontime
+16552,203,2022-08-07,SiCepat,Yogyakarta,Gondomanan,Same Day,1,2,Ontime
+975553,202,2022-11-18,POS Indonesia,Makassar,Tamalanrea,Reguler,3,3,Ontime
+233495,118,2022-07-14,J&T Express,Bandung,Mandalajati,Express,3,2,Ontime
+702742,168,2022-12-07,JNE,Depok,Bojongsari,Express,5,1,Ontime
+136396,283,2023-03-30,Ninja Xpress,Semarang,Tugu Mulyo,Next Day,2,2,Ontime
+453070,180,2023-03-05,JNE,Pontianak,Pontianak Selatan,Reguler,3,4,Ontime
+683754,193,2023-02-03,POS Indonesia,Batam,Sekupang,Same Day,2,3,Ontime
+951414,244,2022-08-16,J&T Express,Depok,Tapos,Same Day,4,3,Ontime
+457807,298,2022-10-24,POS Indonesia,Jakarta,Senen,Next Day,3,5,Ontime
+991366,250,2022-08-05,J&T Express,Depok,Limo,Reguler,3,3,Ontime
+610300,151,2022-08-07,Ninja Xpress,Makassar,Makassar Selatan,Express,3,5,Ontime
+167442,251,2023-04-10,POS Indonesia,Pekanbaru,Sukajadi,Express,4,1,Ontime
+512915,142,2022-11-15,POS Indonesia,Jakarta,Setiabudi,Express,2,2,Ontime
+540554,298,2023-02-11,J&T Express,Denpasar,Kedonganan,Same Day,4,1,Ontime
+152422,214,2023-03-06,SiCepat,Padang,Padang Barat,Reguler,2,3,Ontime
+914766,127,2022-06-12,SiCepat,Pekanbaru,Pekanbaru Kota,Express,4,5,Ontime
+504204,211,2022-12-09,POS Indonesia,Medan,Medan Baru,Next Day,1,4,Ontime
+798230,234,2023-02-04,J&T Express,Bogor,Bogor Timur,Same Day,4,4,Ontime
+587078,161,2022-12-20,Ninja Xpress,Yogyakarta,Kotagede,Express,3,1,Ontime
+967461,111,2022-11-04,Ninja Xpress,Bekasi,Medan Satria,Next Day,3,1,Ontime
+210207,159,2023-05-05,Ninja Xpress,Makassar,Tallo,Reguler,5,5,Ontime
+821002,256,2023-04-13,J&T Express,Depok,Cinere,Express,2,1,Ontime
+727835,268,2022-08-06,POS Indonesia,Jakarta,Setiabudi,Express,5,2,Ontime
+975305,258,2022-09-02,JNE,Yogyakarta,Prawirotaman,Same Day,4,2,Ontime
+796948,299,2022-08-01,J&T Express,Semarang,Pedurungan,Same Day,5,3,Ontime
+812444,300,2023-06-09,SiCepat,Jakarta,Kramat Jati,Express,2,5,Ontime
+999966,168,2023-02-13,JNE,Depok,Cipayung,Next Day,3,4,Ontime
+828752,185,2022-09-13,SiCepat,Jakarta,Kemayoran,Reguler,5,1,Ontime
+226744,293,2022-09-16,J&T Express,Yogyakarta,Sewon,Express,5,1,Ontime
+964500,190,2023-05-22,Ninja Xpress,Tangerang,Serpong,Same Day,2,3,Ontime
+825985,159,2022-11-30,SiCepat,Pekanbaru,Rumbai,Same Day,3,3,Ontime
+142114,191,2023-04-29,J&T Express,Batam,Batam Kota,Next Day,4,2,Ontime
+289301,136,2023-01-07,POS Indonesia,Surakarta,Mojogedang,Same Day,1,1,Ontime
+705194,277,2023-03-30,Ninja Xpress,Makassar,Makassar Timur,Next Day,5,3,Ontime
+435659,253,2023-02-28,SiCepat,Yogyakarta,Gondokusuman,Express,1,4,Ontime
+218098,150,2022-09-15,SiCepat,Bogor,Leuwiliang,Next Day,2,5,Ontime
+576667,264,2023-05-18,Ninja Xpress,Malang,Lowokwaru,Same Day,4,2,Ontime
+965845,223,2023-03-17,J&T Express,Pekanbaru,Senapelan,Next Day,5,1,Ontime
+804628,237,2022-06-18,JNE,Bandar Lampung,Panjang,Same Day,4,1,Ontime
+937932,121,2022-10-18,JNE,Pekanbaru,Payung Sekaki,Reguler,2,2,Ontime
+104940,260,2022-09-11,J&T Express,Malang,Singosari,Next Day,2,5,Ontime
+587014,233,2023-06-10,JNE,Palembang,Bukit Besar,Same Day,2,1,Ontime
+327941,263,2022-09-30,J&T Express,Malang,Tumpang,Same Day,5,3,Ontime
+484885,279,2022-11-04,JNE,Surakarta,Serengan,Next Day,3,2,Ontime
+441651,275,2022-12-12,J&T Express,Palembang,Ilir Timur II,Reguler,2,5,Ontime
+324943,162,2022-08-25,J&T Express,Surabaya,Tegalsari,Next Day,4,4,Ontime
+922212,299,2023-04-06,J&T Express,Batam,Batu Aji,Express,3,1,Ontime
+216479,160,2023-06-02,J&T Express,Bandung,Cinambo,Next Day,1,4,Ontime
+762442,270,2022-10-16,JNE,Batam,Batu Aji,Express,3,2,Ontime
+30410,148,2023-02-11,POS Indonesia,Yogyakarta,Sewon,Next Day,3,2,Ontime
+461574,222,2023-01-10,SiCepat,Bekasi,Jatiwaringin,Express,2,2,Ontime
+273877,156,2022-07-19,POS Indonesia,Semarang,Gajahmungkur,Reguler,2,2,Ontime
+782024,155,2022-09-18,SiCepat,Jakarta,Makasar,Reguler,3,3,Ontime
+817039,116,2022-08-21,SiCepat,Yogyakarta,Gondomanan,Reguler,3,4,Ontime
+658237,228,2023-03-22,POS Indonesia,Bandung,Mandalajati,Same Day,2,2,Ontime
+713444,160,2022-10-10,Ninja Xpress,Batam,Sagulung,Express,2,4,Ontime
+178136,210,2022-07-05,POS Indonesia,Tangerang,Karang Tengah,Next Day,5,5,Ontime
+594199,126,2023-02-06,JNE,Pekanbaru,Lima Puluh,Express,4,1,Ontime
+67461,156,2022-06-24,J&T Express,Pontianak,Pontianak Utara,Next Day,4,5,Ontime
+820253,154,2023-02-20,Ninja Xpress,Makassar,Rappocini,Next Day,2,4,Ontime
+149066,286,2023-05-02,POS Indonesia,Yogyakarta,Mergangsan,Same Day,5,5,Ontime
+67162,207,2023-04-24,Ninja Xpress,Padang,Padang Utara,Reguler,2,1,Ontime
+235555,188,2022-09-16,POS Indonesia,Jakarta,Gambir,Same Day,5,1,Ontime
+125047,179,2023-05-31,SiCepat,Surakarta,Gemolong,Express,1,4,Ontime
+573101,190,2022-11-28,SiCepat,Pontianak,Pontianak Kota,Same Day,5,5,Ontime
+708506,153,2022-06-15,Ninja Xpress,Bandung,Kiaracondong,Express,2,1,Ontime
+281297,276,2022-10-19,Ninja Xpress,Yogyakarta,Ngampilan,Reguler,4,1,Ontime
+78352,291,2022-08-02,SiCepat,Medan,Medan Johor,Same Day,5,4,Ontime
+113399,275,2023-04-27,JNE,Pontianak,Pontianak Barat,Next Day,5,2,Ontime
+696339,143,2023-03-20,J&T Express,Tangerang,Serpong Selatan,Same Day,4,1,Ontime
+255966,186,2022-06-25,SiCepat,Medan,Medan Perjuangan,Next Day,3,3,Ontime
+197445,297,2022-11-03,SiCepat,Depok,Bojongsari,Reguler,5,1,Ontime
+733730,182,2022-09-04,Ninja Xpress,Pontianak,Pontianak Barat,Express,1,3,Ontime
+675354,156,2022-10-05,Ninja Xpress,Malang,Pakis,Same Day,4,1,Ontime
+358851,155,2022-08-07,J&T Express,Bogor,Bogor Timur,Express,3,1,Ontime
+547189,213,2022-06-25,SiCepat,Palembang,Plaju,Reguler,4,4,Ontime
+297967,251,2022-10-02,J&T Express,Surabaya,Rungkut,Express,3,2,Ontime
+630606,198,2023-01-31,POS Indonesia,Pontianak,Pontianak Selatan,Next Day,5,4,Ontime
+619761,227,2023-04-02,Ninja Xpress,Depok,Tapos,Express,1,1,Ontime
+59030,111,2022-09-06,J&T Express,Bekasi,Medan Satria,Reguler,3,3,Ontime
+633164,152,2023-02-15,SiCepat,Medan,Medan Helvetia,Next Day,1,2,Ontime
+180233,198,2022-08-07,POS Indonesia,Bandar Lampung,Tanjung Karang Timur,Reguler,5,5,Ontime
+267076,294,2022-07-04,JNE,Medan,Medan Perjuangan,Next Day,2,1,Ontime
+682700,132,2022-10-17,POS Indonesia,Makassar,Panakkukang,Same Day,2,3,Ontime
+838958,263,2023-04-28,J&T Express,Semarang,Semarang Selatan,Same Day,3,1,Ontime
+468710,162,2022-07-25,Ninja Xpress,Bogor,Ciawi,Reguler,1,2,Ontime
+84761,261,2023-01-02,JNE,Surabaya,Wonokromo,Express,3,2,Ontime
+624005,195,2023-04-04,Ninja Xpress,Pontianak,Pontianak Kota,Same Day,1,5,Ontime
+603610,193,2022-08-20,Ninja Xpress,Batam,Bulang,Reguler,4,4,Ontime
+662409,150,2023-04-22,JNE,Bandung,Gedebage,Next Day,4,1,Ontime
+810493,248,2022-12-10,Ninja Xpress,Medan,Medan Sunggal,Express,1,4,Ontime
+49190,193,2022-10-18,JNE,Jakarta,Pancoran,Express,5,5,Ontime
+24131,275,2022-06-24,SiCepat,Bogor,Gunung Putri,Same Day,3,2,Ontime
+837290,298,2022-07-26,JNE,Bogor,Bogor Utara,Express,1,4,Ontime
+533668,164,2023-02-26,SiCepat,Padang,Pauh,Same Day,2,4,Ontime
+516086,151,2022-11-26,JNE,Jakarta,Kebayoran Baru,Reguler,3,4,Ontime
+859904,190,2022-07-24,JNE,Tangerang,Ciputat,Express,3,5,Ontime
+551476,262,2022-06-11,SiCepat,Bekasi,Bekasi Jaya,Express,4,1,Ontime
+382449,118,2022-12-13,POS Indonesia,Padang,Padang Barat,Reguler,5,3,Ontime
+523283,223,2022-09-18,J&T Express,Medan,Medan Tuntungan,Next Day,1,3,Ontime
+638531,246,2022-08-04,J&T Express,Depok,Beji,Reguler,4,4,Ontime
+442977,115,2023-01-08,Ninja Xpress,Medan,Medan Baru,Reguler,5,5,Ontime
+751759,264,2022-12-10,Ninja Xpress,Malang,Sumbermanjing,Express,4,2,Ontime
+482101,129,2022-06-13,POS Indonesia,Padang,Pauh,Next Day,1,2,Ontime
+690555,220,2022-06-17,Ninja Xpress,Tangerang,Pasar Kemis,Next Day,2,1,Ontime
+374171,295,2022-07-08,Ninja Xpress,Malang,Bululawang,Reguler,1,5,Ontime
+462861,233,2023-02-22,Ninja Xpress,Surakarta,Jebres,Next Day,3,5,Ontime
+711115,161,2023-04-23,POS Indonesia,Medan,Medan Sunggal,Reguler,1,4,Ontime
+435694,294,2022-10-07,POS Indonesia,Padang,Koto Tangah,Same Day,4,1,Ontime
+360184,288,2023-06-09,SiCepat,Denpasar,Benoa,Same Day,5,3,Ontime
+568712,128,2022-10-08,J&T Express,Bogor,Tanah Sereal,Same Day,4,5,Ontime
+756728,200,2023-03-24,J&T Express,Padang,Pauh,Express,5,5,Ontime
+332190,136,2022-10-31,JNE,Yogyakarta,Kotagede,Express,1,1,Ontime
+109994,287,2023-03-17,SiCepat,Bogor,Tanah Sereal,Same Day,1,5,Ontime
+134338,264,2022-12-09,SiCepat,Pontianak,Pontianak Barat,Express,3,5,Ontime
+959132,118,2023-05-10,JNE,Pontianak,Pontianak Barat,Express,1,2,Ontime
+739446,181,2023-04-10,SiCepat,Surabaya,Wonokromo,Next Day,3,4,Ontime
+886948,241,2022-07-24,JNE,Tangerang,Ciputat,Next Day,2,2,Ontime
+297558,156,2023-05-05,JNE,Medan,Medan Maimun,Same Day,2,3,Ontime
+304944,220,2023-03-05,JNE,Palembang,Plaju,Same Day,1,5,Ontime
+481665,225,2023-02-19,POS Indonesia,Palembang,Ilir Barat I,Express,2,1,Ontime
+718267,168,2023-02-09,SiCepat,Jakarta,Setiabudi,Express,1,3,Ontime
+667814,186,2022-07-02,Ninja Xpress,Bekasi,Bekasi Utara,Same Day,2,3,Ontime
+71003,151,2022-08-29,J&T Express,Jakarta,Kebayoran Lama,Next Day,5,2,Ontime
+688377,285,2023-02-09,SiCepat,Jakarta,Gambir,Next Day,1,1,Ontime
+242763,262,2023-03-27,J&T Express,Tangerang,Pondok Aren,Next Day,1,3,Ontime
+68522,170,2023-05-30,Ninja Xpress,Bekasi,Jatiwaringin,Same Day,4,3,Ontime
+711666,268,2022-09-23,J&T Express,Tangerang,Serpong,Next Day,3,5,Ontime
+619492,134,2022-12-24,JNE,Tangerang,Pinang,Next Day,5,4,Ontime
+52238,256,2023-05-28,Ninja Xpress,Jakarta,Kemayoran,Reguler,4,5,Ontime
+884250,221,2022-12-12,JNE,Semarang,Gayamsari,Express,2,5,Ontime
+27272,221,2023-04-18,J&T Express,Makassar,Biringkanaya,Next Day,5,4,Ontime
+806579,158,2022-08-17,Ninja Xpress,Palembang,Ilir Barat II,Reguler,4,1,Ontime
+373211,154,2023-02-24,Ninja Xpress,Medan,Medan Perjuangan,Reguler,2,4,Ontime
+5159,289,2022-08-26,J&T Express,Bogor,Ciawi,Next Day,2,5,Ontime
+971851,274,2023-05-22,POS Indonesia,Bogor,Megamendung,Reguler,1,5,Ontime
+284966,159,2023-04-20,J&T Express,Malang,Kedungkandang,Next Day,2,2,Ontime
+940471,278,2023-03-28,POS Indonesia,Depok,Sawangan,Next Day,5,2,Ontime
+761106,176,2022-07-09,J&T Express,Denpasar,Denpasar Timur,Same Day,1,2,Ontime
+160106,213,2023-03-16,Ninja Xpress,Bandung,Lengkong,Same Day,3,3,Ontime
+255519,243,2023-02-13,POS Indonesia,Bandar Lampung,Teluk Betung Selatan,Reguler,4,5,Ontime
+761606,134,2023-05-22,Ninja Xpress,Yogyakarta,Jetis,Express,2,3,Ontime
+24650,233,2022-08-03,Ninja Xpress,Medan,Medan Johor,Reguler,1,3,Ontime
+780512,267,2023-04-02,JNE,Bandar Lampung,Sukabumi,Next Day,4,3,Ontime
+54370,206,2022-11-01,Ninja Xpress,Depok,Beji,Same Day,3,5,Ontime
+217712,232,2023-01-15,POS Indonesia,Jakarta,Pancoran,Same Day,2,3,Ontime
+370741,246,2022-12-30,POS Indonesia,Pontianak,Pontianak Selatan,Express,3,1,Ontime
+333339,239,2022-09-07,JNE,Denpasar,Serangan,Next Day,4,4,Ontime
+54907,238,2022-10-03,SiCepat,Tangerang,Ciledug,Same Day,2,2,Ontime
+525892,199,2022-09-30,SiCepat,Pontianak,Pontianak Selatan,Express,5,3,Ontime
+265706,122,2022-09-02,J&T Express,Depok,Sawangan,Reguler,2,5,Ontime
+470877,242,2023-03-19,Ninja Xpress,Pekanbaru,Payung Sekaki,Reguler,5,2,Ontime
+928380,211,2023-02-18,SiCepat,Malang,Lawang,Reguler,2,5,Ontime
+190278,117,2022-08-23,SiCepat,Malang,Sumbermanjing,Same Day,3,4,Ontime
+687143,232,2023-01-06,SiCepat,Pontianak,Pontianak Kota,Same Day,3,1,Ontime
+610350,133,2023-04-28,SiCepat,Surabaya,Tambaksari,Express,2,4,Ontime
+945621,232,2022-06-25,POS Indonesia,Medan,Medan Polonia,Same Day,5,1,Ontime
+179910,169,2022-08-19,SiCepat,Makassar,Tamalate,Next Day,4,2,Ontime
+246384,259,2022-07-05,Ninja Xpress,Bandung,Bandung Wetan,Reguler,2,4,Ontime
+95054,200,2023-03-24,J&T Express,Makassar,Rappocini,Reguler,1,1,Ontime
+183938,140,2022-08-24,POS Indonesia,Tangerang,Cipondoh,Reguler,1,5,Ontime
+113617,124,2022-09-21,JNE,Surabaya,Tambaksari,Express,2,3,Ontime
+643500,172,2022-10-06,SiCepat,Yogyakarta,Jetis,Same Day,1,2,Ontime
+512210,234,2022-11-25,J&T Express,Padang,Nanggalo,Reguler,3,4,Ontime
+912185,190,2022-09-05,POS Indonesia,Palembang,Sukarami,Express,2,5,Ontime
+408295,263,2022-06-14,SiCepat,Tangerang,Pinang,Same Day,5,2,Ontime
+574471,201,2022-10-24,SiCepat,Padang,Bungus Teluk Kabung,Same Day,4,4,Ontime
+343855,212,2023-02-08,J&T Express,Pontianak,Pontianak Timur,Reguler,2,4,Ontime
+502719,207,2022-12-17,SiCepat,Surakarta,Kalijambe,Reguler,3,5,Ontime
+788652,205,2022-10-13,POS Indonesia,Depok,Tapos,Express,1,4,Ontime
+125008,133,2022-06-25,JNE,Makassar,Wajo,Same Day,5,2,Ontime
+218026,201,2022-11-15,POS Indonesia,Yogyakarta,Ngampilan,Reguler,3,2,Ontime
+456238,147,2022-11-23,POS Indonesia,Batam,Sekupang,Express,5,1,Ontime
+889612,154,2023-05-30,SiCepat,Surabaya,Wonokromo,Reguler,3,1,Ontime
+114690,199,2023-05-13,POS Indonesia,Bekasi,Bekasi Utara,Reguler,3,2,Ontime
+358737,255,2022-07-27,JNE,Yogyakarta,Wirobrajan,Same Day,2,1,Ontime
+745910,115,2022-10-08,J&T Express,Palembang,Kalidoni,Reguler,2,3,Ontime
+798467,169,2022-07-08,SiCepat,Semarang,Semarang Selatan,Express,2,5,Ontime
+797718,274,2023-05-15,J&T Express,Yogyakarta,Kotagede,Express,1,2,Ontime
+803526,134,2022-09-29,J&T Express,Bogor,Bogor Utara,Reguler,4,4,Ontime
+619619,188,2022-06-15,POS Indonesia,Palembang,Kemuning,Same Day,4,1,Ontime
+363269,145,2022-07-22,SiCepat,Medan,Medan Labuhan,Express,4,5,Ontime
+254593,125,2022-11-01,JNE,Batam,Sagulung,Same Day,3,4,Ontime
+224115,264,2023-03-28,POS Indonesia,Medan,Medan Belawan,Express,4,3,Ontime
+233665,247,2022-09-15,JNE,Makassar,Tallo,Express,1,4,Ontime
+834846,204,2023-03-05,SiCepat,Malang,Pakis,Reguler,5,3,Ontime
+12535,145,2023-01-27,SiCepat,Depok,Bojongsari,Next Day,3,4,Ontime
+32407,216,2023-03-06,SiCepat,Pontianak,Pontianak Kota,Next Day,2,5,Ontime
+906389,144,2022-06-14,SiCepat,Bogor,Bogor Tengah,Next Day,5,1,Ontime
+294984,147,2023-04-24,JNE,Surabaya,Asemrowo,Express,3,1,Ontime
+900825,135,2023-05-29,SiCepat,Denpasar,Serangan,Next Day,2,2,Ontime
+583728,207,2022-06-25,POS Indonesia,Pekanbaru,Tampan,Reguler,5,4,Ontime
+916234,135,2023-06-01,POS Indonesia,Bandar Lampung,Tanjung Senang,Same Day,2,1,Ontime
+115274,144,2023-02-11,SiCepat,Makassar,Wajo,Next Day,1,4,Ontime
+573348,242,2023-02-07,Ninja Xpress,Pekanbaru,Senapelan,Same Day,4,3,Ontime
+527566,185,2022-09-08,J&T Express,Tangerang,Ciputat,Express,1,1,Ontime
+863530,237,2023-04-08,Ninja Xpress,Bekasi,Rawalumbu,Reguler,4,2,Ontime
+56661,118,2022-10-24,J&T Express,Bekasi,Medan Satria,Reguler,3,3,Ontime
+478568,154,2022-11-02,POS Indonesia,Surakarta,Laweyan,Reguler,3,4,Ontime
+595172,233,2022-07-16,POS Indonesia,Bekasi,Bekasi Selatan,Next Day,4,1,Ontime
+2903,231,2022-06-30,Ninja Xpress,Bogor,Cigombong,Reguler,4,5,Ontime
+328034,140,2022-12-23,Ninja Xpress,Palembang,Bukit Besar,Reguler,5,4,Ontime
+406112,152,2022-09-14,JNE,Bandar Lampung,Panjang,Same Day,3,1,Ontime
+372594,252,2023-03-06,SiCepat,Jakarta,Pancoran,Express,1,1,Ontime
+528566,218,2022-12-24,JNE,Jakarta,Menteng,Reguler,4,3,Ontime
+896689,224,2023-03-01,JNE,Makassar,Ujung Pandang,Next Day,3,5,Ontime
+288155,184,2022-07-25,POS Indonesia,Bekasi,Bantargebang,Express,3,3,Ontime
+106960,124,2023-01-28,JNE,Surakarta,Berbek,Reguler,4,5,Ontime
+946693,256,2023-01-04,JNE,Makassar,Makassar City,Next Day,4,3,Ontime
+813875,203,2023-05-07,JNE,Semarang,Tugu Mulyo,Same Day,2,5,Ontime
+38701,208,2023-04-07,J&T Express,Semarang,Gunungpati,Reguler,2,3,Ontime
+223008,123,2023-01-02,POS Indonesia,Padang,Koto Tangah,Reguler,3,4,Ontime
+817889,288,2023-03-30,JNE,Surakarta,Berbek,Next Day,5,5,Ontime
+87471,129,2023-06-11,Ninja Xpress,Bandar Lampung,Rajabasa,Reguler,1,2,Ontime
+29488,263,2022-12-26,J&T Express,Denpasar,Denpasar Timur,Reguler,4,3,Ontime
+541217,195,2022-12-29,POS Indonesia,Bandar Lampung,Kemiling,Next Day,4,3,Ontime
+651561,145,2022-09-30,JNE,Pontianak,Pontianak Barat,Same Day,5,1,Ontime
+393095,128,2022-12-06,POS Indonesia,Jakarta,Grogol Petamburan,Same Day,3,1,Ontime
+538128,176,2022-10-04,Ninja Xpress,Bekasi,Pondok Melati,Next Day,3,1,Ontime
+580173,258,2023-06-07,SiCepat,Jakarta,Matraman,Same Day,4,1,Ontime
+591168,143,2022-09-04,J&T Express,Denpasar,Serangan,Next Day,1,3,Ontime
+364915,282,2022-09-01,Ninja Xpress,Surabaya,Tegalsari,Reguler,1,2,Ontime
+685664,265,2022-09-04,J&T Express,Surakarta,Karanganyar,Reguler,3,1,Ontime
+50778,173,2022-07-04,SiCepat,Bekasi,Medan Satria,Express,1,4,Ontime
+203323,294,2023-02-21,POS Indonesia,Yogyakarta,Gondokusuman,Same Day,4,5,Ontime
+281834,286,2022-10-01,J&T Express,Denpasar,Kerobokan,Reguler,5,1,Ontime
+916446,149,2023-05-17,Ninja Xpress,Jakarta,Ciracas,Express,4,3,Ontime
+904063,263,2022-12-05,POS Indonesia,Pekanbaru,Bukit Raya,Next Day,1,4,Ontime
+892131,293,2023-01-06,J&T Express,Padang,Padang Utara,Reguler,2,3,Ontime
+834330,213,2023-04-13,J&T Express,Semarang,Mijen,Next Day,1,4,Ontime
+581101,171,2022-07-06,SiCepat,Yogyakarta,Gondokusuman,Reguler,3,3,Ontime
+992954,235,2022-09-25,POS Indonesia,Bandung,Regol,Express,3,5,Ontime
+495396,124,2022-08-02,POS Indonesia,Makassar,Makassar Selatan,Reguler,4,5,Ontime
+461420,273,2023-02-27,JNE,Denpasar,Kerobokan,Same Day,3,3,Ontime
+736368,208,2023-03-26,SiCepat,Palembang,Ilir Barat I,Same Day,3,1,Ontime
+306276,299,2022-11-22,SiCepat,Bandung,Cicendo,Reguler,4,3,Ontime
+254760,224,2022-11-28,POS Indonesia,Semarang,Pedurungan,Same Day,3,1,Ontime
+845595,133,2022-10-30,Ninja Xpress,Jakarta,Gambir,Next Day,2,1,Ontime
+890392,242,2022-11-25,POS Indonesia,Surabaya,Genteng,Reguler,1,4,Ontime
+210532,233,2023-04-30,SiCepat,Tangerang,Pinang,Reguler,1,5,Ontime
+952540,263,2022-08-22,POS Indonesia,Bogor,Cigombong,Same Day,1,1,Ontime
+85081,193,2023-02-26,Ninja Xpress,Surabaya,Tegalsari,Next Day,3,2,Ontime
+997196,206,2022-07-13,JNE,Pontianak,Pontianak Barat,Same Day,4,1,Ontime
+366738,277,2022-06-18,J&T Express,Bandar Lampung,Sukarame,Next Day,2,5,Ontime
+162638,272,2022-07-08,POS Indonesia,Bandung,Astana Anyar,Same Day,1,5,Ontime
+195742,238,2022-08-28,Ninja Xpress,Malang,Blimbing,Next Day,4,1,Ontime
+717468,153,2022-09-09,JNE,Tangerang,Benda,Next Day,5,4,Ontime
+906048,295,2022-06-12,POS Indonesia,Padang,Bungus Teluk Kabung,Next Day,1,4,Ontime
+51967,211,2022-09-08,SiCepat,Semarang,Gayamsari,Next Day,4,5,Ontime
+281830,117,2023-01-27,SiCepat,Palembang,Ilir Timur I,Reguler,1,3,Ontime
+985943,291,2022-11-29,Ninja Xpress,Makassar,Makassar Barat,Next Day,5,4,Ontime
+489137,123,2022-10-01,JNE,Jakarta,Mampang Prapatan,Reguler,1,5,Ontime
+351969,210,2023-05-07,Ninja Xpress,Makassar,Batu,Same Day,4,2,Ontime
+182165,152,2022-10-20,SiCepat,Bandung,Bandung Wetan,Same Day,3,3,Ontime
+248733,270,2023-02-10,JNE,Makassar,Makassar Utara,Next Day,1,3,Ontime
+205324,300,2022-10-20,Ninja Xpress,Surabaya,Wonokromo,Same Day,3,5,Ontime
+875631,174,2023-05-14,POS Indonesia,Bandung,Buahbatu,Next Day,2,3,Ontime
+538838,225,2023-05-06,SiCepat,Malang,Blimbing,Same Day,5,1,Ontime
+571078,161,2023-01-25,Ninja Xpress,Yogyakarta,Umbulharjo,Reguler,5,5,Ontime
+698480,284,2022-08-24,SiCepat,Surakarta,Laweyan,Next Day,1,5,Ontime
+813462,154,2023-03-16,SiCepat,Denpasar,Kedonganan,Express,2,1,Ontime
+344770,274,2023-04-07,JNE,Pontianak,Pontianak Kota,Express,3,5,Ontime
+693777,163,2023-04-01,JNE,Bandar Lampung,Rajabasa,Express,1,2,Ontime
+751060,117,2023-01-19,J&T Express,Makassar,Wajo,Reguler,3,1,Ontime
+617039,225,2022-12-30,J&T Express,Padang,Nanggalo,Next Day,1,3,Ontime
+982312,111,2022-12-22,SiCepat,Pekanbaru,Payung Sekaki,Next Day,5,5,Ontime
+926887,249,2022-07-22,JNE,Bogor,Megamendung,Express,3,4,Ontime
+907588,292,2023-05-26,J&T Express,Bekasi,Bekasi Jaya,Reguler,2,5,Ontime
+358052,290,2022-07-27,Ninja Xpress,Jakarta,Kebayoran Baru,Express,3,1,Ontime
+165885,169,2023-03-08,J&T Express,Yogyakarta,Gondomanan,Next Day,1,2,Ontime
+12086,195,2023-03-26,JNE,Bogor,Babakan Madang,Express,4,1,Ontime
+147673,157,2023-01-27,SiCepat,Surabaya,Gubeng,Same Day,5,2,Ontime
+991232,272,2022-09-02,SiCepat,Malang,Kedungkandang,Reguler,2,4,Ontime
+997373,289,2022-09-03,J&T Express,Bandar Lampung,Teluk Betung Selatan,Next Day,5,4,Ontime
+769746,275,2022-07-18,JNE,Depok,Sawangan,Reguler,4,4,Ontime
+440519,161,2022-08-13,Ninja Xpress,Denpasar,Denpasar Selatan,Reguler,2,3,Ontime
+979057,195,2022-12-24,SiCepat,Padang,Padang Timur,Same Day,1,5,Ontime
+295539,143,2023-02-20,SiCepat,Bandar Lampung,Tanjung Karang Timur,Reguler,3,2,Ontime
+632353,117,2023-05-21,SiCepat,Tangerang,Karang Tengah,Reguler,1,3,Ontime
+677069,189,2023-05-07,J&T Express,Pekanbaru,Pekanbaru Kota,Reguler,5,3,Ontime
+648709,300,2023-03-19,JNE,Batam,Batu Aji,Express,1,4,Ontime
+928209,246,2022-08-13,POS Indonesia,Pekanbaru,Payung Sekaki,Express,4,3,Ontime
+117042,169,2023-04-25,SiCepat,Palembang,Alang-Alang Lebar,Next Day,2,4,Ontime
+482869,254,2022-11-23,SiCepat,Batam,Lubuk Baja,Reguler,2,2,Ontime
+541108,219,2023-03-05,POS Indonesia,Palembang,Bukit Besar,Next Day,1,4,Ontime
+320822,250,2023-06-09,JNE,Bekasi,Jati Sampurna,Express,1,4,Ontime
+589288,277,2023-02-21,JNE,Padang,Kuranji,Express,2,1,Ontime
+542574,297,2023-04-28,SiCepat,Denpasar,Nusa Dua,Next Day,4,4,Ontime
+968927,195,2023-01-29,JNE,Malang,Pakis,Next Day,1,4,Ontime
+140423,154,2022-08-03,J&T Express,Batam,Belakang Padang,Same Day,1,3,Ontime
+562714,178,2022-10-11,Ninja Xpress,Surabaya,Kenjeran,Reguler,1,1,Ontime
+29127,177,2022-06-14,POS Indonesia,Pekanbaru,Marpoyan Damai,Next Day,5,5,Ontime
+154628,281,2023-05-13,JNE,Padang,Koto Tangah,Same Day,5,3,Ontime
+60975,276,2022-12-21,POS Indonesia,Semarang,Gayamsari,Next Day,4,1,Ontime
+869436,270,2022-09-22,J&T Express,Bandung,Cibiru,Next Day,3,2,Ontime
+679267,248,2023-06-07,J&T Express,Jakarta,Sawah Besar,Next Day,2,5,Ontime
+4994,229,2022-11-12,Ninja Xpress,Surakarta,Karanganyar,Same Day,4,2,Ontime
+531434,179,2022-10-23,SiCepat,Bogor,Cileungsi,Express,5,4,Ontime
+626902,183,2023-06-10,Ninja Xpress,Denpasar,Renon,Same Day,4,2,Ontime
+923145,222,2022-10-06,J&T Express,Denpasar,Denpasar Timur,Next Day,4,1,Ontime
+885308,228,2022-10-24,SiCepat,Padang,Pauh,Next Day,3,2,Ontime
+407620,150,2023-01-10,SiCepat,Yogyakarta,Gondomanan,Reguler,3,1,Ontime
+276325,162,2022-07-22,SiCepat,Surakarta,Mojogedang,Same Day,4,5,Ontime
+159490,222,2022-08-10,J&T Express,Medan,Medan Timur,Next Day,3,5,Ontime
+966715,151,2022-12-14,J&T Express,Pekanbaru,Senapelan,Express,4,5,Ontime
+434254,212,2023-04-12,POS Indonesia,Padang,Kuranji,Next Day,1,5,Ontime
+981912,112,2023-06-04,POS Indonesia,Padang,Pauh,Next Day,2,5,Ontime
+787655,114,2022-11-06,Ninja Xpress,Bekasi,Mustika Jaya,Express,3,1,Ontime
+562842,189,2022-10-16,Ninja Xpress,Batam,Batam Kota,Same Day,4,1,Ontime
+835826,142,2023-04-28,POS Indonesia,Batam,Bulang,Same Day,3,1,Ontime
+755724,243,2022-09-29,JNE,Bekasi,Medan Satria,Express,4,1,Ontime
+172439,139,2023-03-06,POS Indonesia,Padang,Lubuk Begalung,Reguler,1,5,Ontime
+154180,189,2022-12-22,SiCepat,Pontianak,Pontianak Kota,Next Day,1,4,Ontime
+256285,226,2022-12-11,POS Indonesia,Makassar,Bonto,Same Day,5,5,Ontime
+75900,300,2022-12-26,Ninja Xpress,Padang,Bungus Teluk Kabung,Next Day,3,5,Ontime
+257802,195,2022-11-14,Ninja Xpress,Malang,Singosari,Same Day,5,1,Ontime
+501602,284,2023-05-01,J&T Express,Medan,Medan Perjuangan,Reguler,2,2,Ontime
+770729,199,2023-01-20,POS Indonesia,Makassar,Rappocini,Reguler,2,1,Ontime
+561223,247,2023-05-28,Ninja Xpress,Bandung,Cicendo,Next Day,5,2,Ontime
+595877,284,2022-06-28,Ninja Xpress,Makassar,Makassar Selatan,Next Day,5,1,Ontime
+164203,183,2022-06-20,Ninja Xpress,Pontianak,Pontianak Barat,Express,5,4,Ontime
+288643,295,2022-11-08,SiCepat,Makassar,Wajo,Express,3,4,Ontime
+161125,152,2023-01-17,SiCepat,Malang,Klojen,Next Day,4,3,Ontime
+720826,159,2023-01-31,Ninja Xpress,Surakarta,Kebakkramat,Next Day,1,4,Ontime
+599875,220,2023-03-02,JNE,Pontianak,Pontianak Barat,Express,5,5,Ontime
+590453,161,2022-09-19,SiCepat,Padang,Padang Barat,Next Day,2,3,Ontime
+551389,189,2023-02-04,J&T Express,Tangerang,Cipondoh,Next Day,5,3,Ontime
+948891,130,2023-01-10,JNE,Depok,Beji,Express,1,1,Ontime
+264177,229,2023-06-09,Ninja Xpress,Bekasi,Bekasi Selatan,Next Day,5,2,Ontime
+962375,117,2022-07-10,JNE,Jakarta,Senen,Next Day,4,1,Ontime
+260259,171,2023-05-01,JNE,Bekasi,Bekasi Jaya,Next Day,2,4,Ontime
+155297,207,2023-01-04,POS Indonesia,Pekanbaru,Sail,Next Day,4,1,Ontime
+253226,292,2022-07-13,J&T Express,Palembang,Bukit Kecil,Express,2,3,Ontime
+872348,299,2023-01-17,J&T Express,Palembang,Seberang Ulu III,Same Day,3,2,Ontime
+713821,226,2023-04-02,J&T Express,Surabaya,Tegalsari,Express,3,4,Ontime
+242557,234,2022-09-26,SiCepat,Pontianak,Pontianak Utara,Express,3,2,Ontime
+515228,126,2022-10-17,Ninja Xpress,Depok,Cimanggis,Reguler,2,3,Ontime
+10371,273,2023-03-19,POS Indonesia,Medan,Medan Johor,Express,2,2,Ontime
+830723,161,2023-04-07,J&T Express,Surabaya,Wonokromo,Next Day,1,4,Ontime
+85352,279,2023-05-17,POS Indonesia,Bandar Lampung,Rajabasa,Next Day,4,2,Ontime
+222166,295,2022-10-27,JNE,Batam,Bengkong,Reguler,4,3,Ontime
+579959,260,2023-04-04,JNE,Depok,Pancoran Mas,Express,1,3,Ontime
+921685,187,2023-03-04,Ninja Xpress,Padang,Padang Utara,Next Day,3,5,Ontime
+551598,297,2023-03-23,SiCepat,Denpasar,Renon,Express,4,5,Ontime
+389256,166,2022-08-27,SiCepat,Malang,Sukun,Reguler,4,2,Ontime
+810309,218,2023-02-06,SiCepat,Bekasi,Bekasi Utara,Next Day,2,3,Ontime
+680917,122,2023-01-22,J&T Express,Batam,Belakang Padang,Next Day,4,1,Ontime
+297664,295,2023-05-12,Ninja Xpress,Yogyakarta,Wirobrajan,Next Day,3,3,Ontime
+506081,113,2023-04-04,Ninja Xpress,Surabaya,Asemrowo,Express,2,5,Ontime
+444135,210,2023-03-05,SiCepat,Batam,Sagulung,Same Day,4,4,Ontime
+622144,252,2023-01-07,POS Indonesia,Bandar Lampung,Rajabasa,Next Day,3,3,Ontime
+41301,249,2022-12-21,POS Indonesia,Tangerang,Curug,Same Day,5,3,Ontime
+295777,187,2022-10-22,Ninja Xpress,Surakarta,Ngargoyoso,Reguler,2,2,Ontime
+188418,184,2023-02-10,J&T Express,Padang,Padang Timur,Same Day,5,1,Ontime
+808252,164,2022-11-25,SiCepat,Bandung,Cicendo,Same Day,5,5,Ontime
+914135,292,2022-12-07,SiCepat,Batam,Sekupang,Same Day,3,2,Ontime
+309360,234,2022-10-23,Ninja Xpress,Surakarta,Kartasura,Reguler,1,3,Ontime
+621941,254,2023-03-12,Ninja Xpress,Pekanbaru,Pekanbaru Kota,Express,3,5,Ontime
+445568,164,2023-01-27,Ninja Xpress,Tangerang,Pagedangan,Next Day,1,2,Ontime
+237045,256,2022-12-29,JNE,Pekanbaru,Bukit Raya,Same Day,5,3,Ontime
+250997,173,2023-05-17,J&T Express,Denpasar,Kerobokan,Same Day,1,5,Ontime
+152380,287,2022-08-17,JNE,Bekasi,Pondok Melati,Same Day,2,3,Ontime
+659174,235,2022-12-14,SiCepat,Makassar,Tamalanrea,Next Day,3,1,Ontime
+697437,145,2023-02-18,SiCepat,Bandar Lampung,Teluk Betung Selatan,Express,1,5,Ontime
+359174,157,2022-08-24,Ninja Xpress,Bogor,Nanggung,Reguler,1,5,Ontime
+65874,204,2022-12-29,J&T Express,Jakarta,Setiabudi,Next Day,1,3,Ontime
+453342,267,2023-01-10,J&T Express,Makassar,Biring Romang,Express,2,5,Ontime
+641324,151,2022-09-28,J&T Express,Pontianak,Pontianak Kota,Same Day,1,5,Ontime
+365615,226,2022-12-19,JNE,Denpasar,Padangsambian Klod,Express,5,2,Ontime
+724914,288,2023-06-04,POS Indonesia,Medan,Medan Baru,Express,2,4,Ontime
+363529,292,2022-12-11,POS Indonesia,Bekasi,Bekasi Utara,Same Day,2,5,Ontime
+518951,273,2023-04-21,Ninja Xpress,Makassar,Makassar Utara,Express,3,2,Ontime
+141727,141,2023-05-01,JNE,Padang,Koto Tangah,Next Day,2,5,Ontime
+289284,122,2022-10-09,J&T Express,Depok,Cimanggis,Same Day,2,3,Ontime
+507023,151,2022-08-27,JNE,Pekanbaru,Sail,Same Day,1,5,Ontime
+577528,234,2022-07-17,SiCepat,Malang,Ngajung,Same Day,3,2,Ontime
+19887,212,2022-12-31,Ninja Xpress,Bandung,Coblong,Next Day,4,2,Ontime
+706313,184,2022-11-09,J&T Express,Pekanbaru,Pekanbaru Kota,Next Day,5,4,Ontime
+880327,281,2023-06-05,POS Indonesia,Batam,Lubuk Baja,Same Day,3,5,Ontime
+919782,240,2023-03-01,J&T Express,Malang,Lawang,Same Day,1,5,Ontime
+112661,271,2023-05-18,POS Indonesia,Pontianak,Pontianak Barat,Reguler,4,5,Ontime
+539140,142,2022-09-21,J&T Express,Padang,Padang Barat,Same Day,3,3,Ontime
+178375,176,2023-06-02,SiCepat,Semarang,Tugu Mulyo,Reguler,5,4,Ontime
+997715,287,2023-03-24,SiCepat,Surakarta,Kalijambe,Reguler,5,3,Ontime
+202337,139,2022-11-20,POS Indonesia,Bogor,Babakan Madang,Same Day,2,3,Ontime
+521365,213,2023-05-20,JNE,Semarang,Semarang Utara,Express,5,2,Ontime
+348103,287,2022-11-15,JNE,Surabaya,Semampir,Reguler,3,5,Ontime
+374310,251,2022-06-28,SiCepat,Malang,Tumpang,Same Day,2,4,Ontime
+472646,158,2022-11-05,Ninja Xpress,Semarang,Tugu Mulyo,Express,2,3,Ontime
+842306,265,2022-12-16,POS Indonesia,Bandar Lampung,Enggal,Same Day,5,2,Ontime
+854380,248,2023-01-18,Ninja Xpress,Semarang,Semarang Utara,Next Day,1,2,Ontime
+153233,127,2023-02-14,Ninja Xpress,Semarang,Gunungpati,Next Day,1,1,Ontime
+438015,294,2023-01-27,POS Indonesia,Surakarta,Mojogedang,Express,2,5,Ontime
+683173,132,2023-04-20,SiCepat,Depok,Limo,Same Day,5,1,Ontime
+953582,213,2022-12-06,JNE,Depok,Cinere,Reguler,1,5,Ontime
+500816,249,2022-09-22,J&T Express,Semarang,Pedurungan,Express,3,3,Ontime
+322845,201,2022-08-06,SiCepat,Semarang,Semarang Utara,Next Day,4,1,Ontime
+96269,213,2023-04-14,SiCepat,Pekanbaru,Lima Puluh,Same Day,4,1,Ontime
+23686,136,2022-10-18,J&T Express,Depok,Cimanggis,Same Day,2,5,Ontime
+268711,154,2022-11-04,J&T Express,Surakarta,Banyudono,Next Day,5,1,Ontime
+294443,160,2023-04-23,POS Indonesia,Surabaya,Genteng,Reguler,5,1,Ontime
+535309,117,2023-04-05,J&T Express,Tangerang,Pasar Kemis,Reguler,5,5,Ontime
+388442,118,2023-01-25,JNE,Makassar,Tamalanrea,Next Day,3,1,Ontime
+464692,212,2023-01-28,Ninja Xpress,Surakarta,Gemolong,Reguler,2,4,Ontime
+7949,161,2022-11-10,Ninja Xpress,Tangerang,Legok,Express,4,5,Ontime
+59779,128,2022-07-21,J&T Express,Pontianak,Pontianak Barat,Next Day,4,2,Ontime
+741826,290,2022-12-23,Ninja Xpress,Bogor,Dramaga,Reguler,2,4,Ontime
+63062,134,2023-04-04,JNE,Palembang,Sukarami,Reguler,1,5,Ontime
+127687,112,2022-10-04,SiCepat,Surabaya,Bulak,Next Day,3,5,Ontime
+711357,189,2023-03-27,Ninja Xpress,Yogyakarta,Pakualaman,Express,4,4,Ontime
+153070,262,2022-11-17,Ninja Xpress,Jakarta,Ciracas,Reguler,1,3,Ontime
+151357,178,2022-12-09,SiCepat,Malang,Singosari,Reguler,3,4,Ontime
+476096,295,2022-06-13,Ninja Xpress,Bandung,Panyileukan,Express,3,3,Ontime
+465760,170,2022-07-12,JNE,Padang,Koto Tangah,Express,5,5,Ontime
+213548,145,2023-01-07,Ninja Xpress,Jakarta,Pasar Rebo,Same Day,2,3,Ontime
+495116,294,2022-08-06,Ninja Xpress,Batam,Galang,Express,3,4,Ontime
+467395,233,2023-02-27,POS Indonesia,Bandung,Bojongloa Kaler,Reguler,1,2,Ontime
+294248,142,2023-01-05,POS Indonesia,Pontianak,Pontianak Selatan,Next Day,5,3,Ontime
+299969,271,2022-08-16,J&T Express,Makassar,Rappocini,Express,5,3,Ontime
+846686,145,2022-08-29,POS Indonesia,Denpasar,Denpasar Tengah,Same Day,1,5,Ontime
+528539,136,2022-10-31,J&T Express,Jakarta,Pancoran,Same Day,5,1,Ontime
+928513,271,2023-01-26,J&T Express,Pontianak,Pontianak Tenggara,Next Day,4,5,Ontime
+493142,181,2023-04-04,SiCepat,Bandar Lampung,Sukabumi,Next Day,5,2,Ontime
+225340,158,2023-06-11,J&T Express,Medan,Medan Polonia,Same Day,2,2,Ontime
+381968,230,2022-12-06,SiCepat,Bogor,Parung Panjang,Same Day,5,5,Ontime
+996913,205,2023-03-25,J&T Express,Surabaya,Kenjeran,Express,5,3,Ontime
+730705,182,2023-04-14,SiCepat,Bandung,Bandung Wetan,Express,4,5,Ontime
+505793,237,2022-11-22,POS Indonesia,Bogor,Gunung Putri,Reguler,5,5,Ontime
+25346,293,2022-09-11,J&T Express,Malang,Ngajung,Next Day,3,3,Ontime
+581768,287,2022-10-14,SiCepat,Surakarta,Gemolong,Express,3,2,Ontime
+910989,260,2022-11-12,Ninja Xpress,Palembang,Kemuning,Next Day,4,5,Ontime
+610269,181,2023-04-12,JNE,Denpasar,Denpasar Timur,Next Day,1,5,Ontime
+359243,156,2022-10-31,J&T Express,Pekanbaru,Marpoyan Damai,Same Day,1,4,Ontime
+238504,204,2022-08-23,JNE,Palembang,Sukarami,Same Day,5,4,Ontime
+591284,141,2023-02-24,J&T Express,Bandar Lampung,Rajabasa,Same Day,3,5,Ontime
+465271,211,2023-05-29,POS Indonesia,Palembang,Bukit Kecil,Express,2,4,Ontime
+518721,133,2022-10-29,SiCepat,Palembang,Kemuning,Express,2,1,Ontime
+699404,284,2022-08-24,POS Indonesia,Medan,Medan Petisah,Reguler,5,3,Ontime
+553944,112,2022-07-02,J&T Express,Palembang,Sako,Same Day,1,5,Ontime
+722573,253,2022-11-23,SiCepat,Padang,Padang Barat,Reguler,4,2,Ontime
+661028,185,2023-04-14,Ninja Xpress,Padang,Padang Timur,Same Day,3,1,Ontime
+11953,253,2023-04-10,JNE,Makassar,Makassar Barat,Same Day,3,1,Ontime
+85165,196,2022-08-20,POS Indonesia,Yogyakarta,Mantrijeron,Express,3,2,Ontime
+245504,130,2022-07-10,Ninja Xpress,Semarang,Tugu Mulyo,Next Day,5,2,Ontime
+775213,197,2022-12-03,Ninja Xpress,Bekasi,Bekasi Barat,Express,5,2,Ontime
+516751,152,2023-02-11,JNE,Makassar,Bontoala,Next Day,1,2,Ontime
+221892,225,2023-01-05,J&T Express,Jakarta,Menteng,Same Day,5,5,Ontime
+59223,210,2023-02-21,JNE,Makassar,Tallo,Next Day,3,2,Ontime
+475142,127,2023-05-08,POS Indonesia,Surabaya,Simokerto,Same Day,2,4,Ontime
+419622,156,2022-11-10,SiCepat,Bandar Lampung,Teluk Betung Utara,Same Day,3,1,Ontime
+146243,142,2023-01-28,Ninja Xpress,Surabaya,Bulak,Next Day,5,5,Ontime
+760830,112,2023-05-21,POS Indonesia,Jakarta,Cempaka Putih,Reguler,3,1,Ontime
+657367,163,2022-11-25,SiCepat,Surakarta,Laweyan,Express,5,1,Ontime
+381086,115,2023-04-20,SiCepat,Yogyakarta,Jetis,Next Day,5,4,Ontime
+153675,236,2023-01-09,SiCepat,Bandung,Panyileukan,Next Day,5,3,Ontime
+534721,233,2022-08-09,POS Indonesia,Bekasi,Mustika Jaya,Express,2,3,Ontime
+158869,117,2023-03-09,SiCepat,Depok,Cipayung,Reguler,1,3,Ontime
+413464,173,2023-03-19,POS Indonesia,Makassar,Makassar City,Reguler,5,2,Ontime
+851849,266,2023-02-11,POS Indonesia,Bekasi,Mustika Jaya,Same Day,5,1,Ontime
+538095,294,2022-07-08,JNE,Padang,Lubuk Kilangan,Next Day,3,5,Ontime
+130412,182,2022-10-19,Ninja Xpress,Depok,Limo,Next Day,4,2,Ontime
+859198,285,2022-11-03,J&T Express,Depok,Cimanggis,Express,4,3,Ontime
+872402,125,2022-11-04,JNE,Palembang,Kemuning,Express,3,3,Ontime
+14001,188,2022-07-19,SiCepat,Depok,Cilodong,Express,5,5,Ontime
+655956,120,2023-02-09,SiCepat,Tangerang,Kronjo,Same Day,1,1,Ontime
+839583,135,2022-11-13,SiCepat,Pekanbaru,Marpoyan Damai,Reguler,1,2,Ontime
+716854,144,2023-01-05,Ninja Xpress,Pekanbaru,Tenayan Raya,Reguler,1,4,Ontime
+583630,274,2023-06-11,J&T Express,Depok,Tapos,Same Day,2,3,Ontime
+171971,140,2022-10-30,Ninja Xpress,Palembang,Bukit Besar,Reguler,1,2,Ontime
+851333,231,2022-11-21,Ninja Xpress,Bogor,Citeureup,Same Day,2,2,Ontime
+333229,205,2022-08-10,SiCepat,Surabaya,Rungkut,Next Day,3,3,Ontime
+517179,296,2022-07-12,J&T Express,Yogyakarta,Tegalrejo,Next Day,4,2,Ontime
+334728,126,2022-09-10,Ninja Xpress,Bandung,Panyileukan,Next Day,2,3,Ontime
+671186,213,2022-09-22,Ninja Xpress,Bandar Lampung,Teluk Betung Barat,Reguler,3,5,Ontime
+46767,276,2022-11-04,POS Indonesia,Medan,Medan Perjuangan,Same Day,4,4,Ontime
+707477,203,2023-01-23,J&T Express,Medan,Medan Baru,Next Day,2,5,Ontime
+374868,147,2022-09-13,POS Indonesia,Denpasar,Denpasar Barat,Next Day,2,5,Ontime
+294558,127,2023-01-19,Ninja Xpress,Palembang,Ilir Timur Tiga,Same Day,3,1,Ontime
+270684,199,2023-01-09,JNE,Bekasi,Rawalumbu,Next Day,2,5,Ontime
+978432,219,2023-05-01,SiCepat,Pontianak,Pontianak Tenggara,Next Day,3,2,Ontime
+95280,229,2022-07-28,SiCepat,Palembang,Kalidoni,Reguler,3,3,Ontime
+29284,242,2022-07-18,JNE,Bandung,Cibeunying Kaler,Next Day,3,4,Ontime
+247768,208,2023-01-10,SiCepat,Tangerang,Kosambi,Same Day,2,4,Ontime
+185461,253,2022-08-27,JNE,Batam,Bengkong,Same Day,5,1,Ontime
+300574,183,2022-09-16,J&T Express,Palembang,Bukit Besar,Next Day,2,5,Ontime
+849255,150,2023-04-15,Ninja Xpress,Tangerang,Larangan,Next Day,1,1,Ontime
+53075,197,2022-08-22,POS Indonesia,Bandar Lampung,Sukabumi,Reguler,3,2,Ontime
+189039,146,2022-06-30,SiCepat,Bekasi,Rawalumbu,Same Day,4,5,Ontime
+944306,215,2022-10-23,JNE,Bogor,Babakan Madang,Express,4,1,Ontime
+505082,170,2022-08-05,Ninja Xpress,Bekasi,Jatiwaringin,Express,4,3,Ontime
+130717,150,2023-03-18,SiCepat,Surabaya,Sukolilo,Reguler,1,5,Ontime
+559918,225,2023-05-08,POS Indonesia,Makassar,Manggala,Reguler,4,4,Ontime
+503721,121,2022-07-13,POS Indonesia,Surakarta,Tawangmangu,Reguler,4,5,Ontime
+454483,236,2022-11-17,Ninja Xpress,Yogyakarta,Ngampilan,Same Day,2,3,Ontime
+670616,153,2023-03-24,POS Indonesia,Depok,Sawangan,Express,3,4,Ontime
+60122,171,2022-11-16,JNE,Bandar Lampung,Teluk Betung Selatan,Express,2,1,Ontime
+925161,133,2023-01-23,JNE,Surabaya,Lakarsantri,Reguler,1,5,Ontime
+68338,233,2022-10-10,J&T Express,Bogor,Bogor Selatan,Next Day,5,5,Ontime
+693013,172,2022-11-14,JNE,Bekasi,Bekasi Utara,Same Day,4,5,Ontime
+220495,139,2023-03-26,JNE,Bandung,Bojongloa Kidul,Reguler,3,3,Ontime
+212291,145,2023-03-27,JNE,Tangerang,Ciputat,Same Day,3,2,Ontime
+946863,250,2022-08-15,J&T Express,Semarang,Semarang Timur,Next Day,4,1,Ontime
+794146,172,2022-10-03,J&T Express,Yogyakarta,Mantrijeron,Same Day,4,2,Ontime
+410336,222,2023-02-17,J&T Express,Yogyakarta,Keparakan,Same Day,5,2,Ontime
+909126,144,2023-03-11,POS Indonesia,Bandung,Bojongloa Kaler,Express,5,3,Ontime
+900073,122,2022-11-25,Ninja Xpress,Surakarta,Karanganyar,Reguler,4,5,Ontime
+780614,166,2022-10-05,POS Indonesia,Padang,Padang Barat,Express,2,2,Ontime
+66799,209,2022-09-01,POS Indonesia,Bandar Lampung,Teluk Betung Selatan,Same Day,5,3,Ontime
+88222,213,2022-11-08,JNE,Yogyakarta,Umbulharjo,Same Day,3,5,Ontime
+699859,272,2022-06-16,SiCepat,Tangerang,Karang Tengah,Express,4,2,Ontime
+438416,294,2022-09-15,POS Indonesia,Surakarta,Jebres,Express,5,5,Ontime
+141334,260,2022-09-24,J&T Express,Padang,Padang Timur,Reguler,1,5,Ontime
+183188,138,2023-04-10,JNE,Semarang,Banyumanik,Next Day,4,5,Ontime
+196393,164,2022-10-29,SiCepat,Pontianak,Pontianak Barat,Reguler,2,1,Ontime
+28882,216,2022-07-28,Ninja Xpress,Surabaya,Lakarsantri,Reguler,3,5,Ontime
+826715,271,2022-06-13,Ninja Xpress,Yogyakarta,Sewon,Next Day,4,4,Ontime
+216768,276,2022-08-10,JNE,Yogyakarta,Gondomanan,Express,1,4,Ontime
+162024,243,2023-04-22,Ninja Xpress,Bogor,Bogor Selatan,Express,5,5,Ontime
+178330,134,2023-03-25,SiCepat,Makassar,Makassar Timur,Reguler,1,3,Ontime
+142463,115,2023-03-30,J&T Express,Denpasar,Kedonganan,Reguler,2,5,Ontime
+681545,270,2022-10-01,POS Indonesia,Depok,Cimanggis,Express,3,5,Ontime
+978746,222,2023-04-22,Ninja Xpress,Surakarta,Jebres,Express,2,2,Ontime
+954005,158,2022-11-13,SiCepat,Palembang,Sako,Express,3,5,Ontime
+678872,208,2023-02-15,SiCepat,Bandung,Gedebage,Same Day,3,4,Ontime
+505729,140,2023-04-09,SiCepat,Depok,Sawangan,Reguler,4,1,Ontime
+897206,229,2023-01-07,Ninja Xpress,Depok,Tapos,Next Day,3,2,Ontime
+109115,215,2022-11-15,SiCepat,Tangerang,Ciputat,Next Day,4,2,Ontime
+259593,212,2022-12-06,POS Indonesia,Malang,Lowokwaru,Reguler,4,5,Ontime
+563276,144,2022-09-29,J&T Express,Bogor,Tanah Sereal,Next Day,3,1,Ontime
+617049,207,2022-09-30,Ninja Xpress,Bogor,Cileungsi,Reguler,2,5,Ontime
+895805,172,2023-01-29,SiCepat,Batam,Sekupang,Same Day,5,3,Ontime
+485187,131,2022-12-31,JNE,Pontianak,Pontianak Kota,Same Day,3,3,Ontime
+354792,198,2022-08-20,JNE,Bandar Lampung,Kedamaian,Express,4,2,Ontime
+638212,138,2022-12-03,POS Indonesia,Denpasar,Kerobokan,Next Day,2,3,Ontime
+753091,259,2022-07-25,SiCepat,Yogyakarta,Jetis,Express,5,5,Ontime
+586251,221,2023-04-15,POS Indonesia,Palembang,Plaju,Express,3,3,Ontime
+77368,168,2022-11-23,Ninja Xpress,Pekanbaru,Senapelan,Same Day,1,5,Ontime
+818435,171,2022-11-14,SiCepat,Surakarta,Jenawi,Express,4,3,Ontime
+615818,244,2022-08-04,JNE,Bekasi,Jati Sampurna,Next Day,3,1,Ontime
+967998,260,2022-09-09,SiCepat,Surakarta,Laweyan,Same Day,5,4,Ontime
+105871,136,2022-07-27,JNE,Palembang,Sukarami,Reguler,2,4,Ontime
+965792,120,2022-11-14,SiCepat,Denpasar,Tuban,Next Day,5,2,Ontime
+718033,129,2023-03-09,JNE,Yogyakarta,Sewon,Express,2,4,Ontime
+29855,299,2023-04-08,Ninja Xpress,Padang,Nanggalo,Express,5,1,Ontime
+32877,187,2022-07-05,Ninja Xpress,Surabaya,Tandes,Same Day,3,5,Ontime
+400282,111,2023-03-30,J&T Express,Depok,Mekarsari,Next Day,1,5,Ontime
+501264,299,2022-12-07,J&T Express,Makassar,Wajo,Same Day,5,1,Ontime
+564571,268,2022-11-23,JNE,Batam,Sei Beduk,Next Day,2,2,Ontime
+46044,156,2022-07-01,J&T Express,Medan,Medan Belawan,Express,1,3,Ontime
+697860,277,2022-07-31,SiCepat,Padang,Lubuk Kilangan,Express,5,4,Ontime
+191279,288,2023-02-21,POS Indonesia,Padang,Pauh,Express,4,2,Ontime
+26723,286,2022-08-08,SiCepat,Jakarta,Ciracas,Reguler,5,4,Ontime
+263934,150,2023-03-16,JNE,Denpasar,Denpasar Timur,Next Day,5,5,Ontime
+33839,174,2023-03-14,J&T Express,Palembang,Seberang Ulu I,Next Day,3,1,Ontime
+836614,249,2022-10-11,POS Indonesia,Denpasar,Sesetan,Reguler,3,1,Ontime
+613395,262,2023-02-20,Ninja Xpress,Yogyakarta,Jetis,Reguler,2,5,Ontime
+596824,236,2023-06-11,POS Indonesia,Pontianak,Pontianak Timur,Express,3,5,Ontime
+81468,242,2023-04-11,JNE,Bekasi,Bekasi Timur,Next Day,3,2,Ontime
+357998,252,2023-04-22,SiCepat,Depok,Cimanggis,Express,2,5,Ontime
+207808,227,2022-11-07,SiCepat,Bogor,Leuwiliang,Reguler,5,1,Ontime
+884503,291,2023-01-30,POS Indonesia,Pontianak,Pontianak Tenggara,Express,5,5,Ontime
+8622,130,2022-10-28,POS Indonesia,Surabaya,Wiyung,Reguler,5,3,Ontime
+971266,134,2023-03-02,POS Indonesia,Tangerang,Serpong Utara,Express,2,3,Ontime
+635372,157,2023-05-10,POS Indonesia,Medan,Medan Johor,Next Day,4,3,Ontime
+483959,252,2023-05-04,Ninja Xpress,Bandar Lampung,Sukabumi,Same Day,5,2,Ontime
+775946,127,2022-10-25,J&T Express,Bekasi,Bekasi Utara,Same Day,3,1,Ontime
+794135,149,2022-06-22,Ninja Xpress,Batam,Sagulung,Express,3,3,Ontime
+782247,151,2023-04-23,POS Indonesia,Yogyakarta,Gondomanan,Next Day,5,3,Ontime
+28122,263,2023-01-21,POS Indonesia,Padang,Padang Selatan,Reguler,5,4,Ontime
+204077,265,2022-11-25,J&T Express,Bandung,Regol,Same Day,5,4,Ontime
+523928,237,2022-11-22,POS Indonesia,Batam,Sagulung,Reguler,2,3,Ontime
+615990,142,2023-04-24,J&T Express,Batam,Nongsa,Express,5,5,Ontime
+140313,112,2023-05-15,POS Indonesia,Palembang,Bukit Kecil,Reguler,2,5,Ontime
+926075,274,2023-05-10,J&T Express,Jakarta,Setiabudi,Reguler,5,4,Ontime
+670449,207,2022-09-11,POS Indonesia,Bandung,Babakan Ciparay,Same Day,1,2,Ontime
+853926,176,2022-12-17,JNE,Tangerang,Legok,Express,2,1,Ontime
+550834,284,2023-01-06,Ninja Xpress,Medan,Medan Marelan,Reguler,3,2,Ontime
+257260,247,2023-02-01,JNE,Surabaya,Lakarsantri,Reguler,4,5,Ontime
+399424,182,2022-10-04,J&T Express,Yogyakarta,Pakualaman,Reguler,2,1,Ontime
+908124,264,2023-05-27,SiCepat,Yogyakarta,Ngampilan,Express,4,4,Ontime
+928272,188,2023-05-18,Ninja Xpress,Jakarta,Pancoran,Express,1,5,Ontime
+832593,206,2023-01-01,Ninja Xpress,Malang,Kedungkandang,Same Day,2,4,Ontime
+188015,127,2023-02-20,SiCepat,Bekasi,Jatiwaringin,Same Day,1,5,Ontime
+5016,286,2022-12-10,JNE,Jakarta,Kramat Jati,Reguler,1,1,Ontime
+640106,190,2023-01-23,J&T Express,Tangerang,Cipondoh,Next Day,1,4,Ontime
+245278,253,2023-05-11,J&T Express,Malang,Ngajung,Express,4,5,Ontime
+591460,160,2023-01-23,SiCepat,Semarang,Semarang Utara,Next Day,2,3,Ontime
+640010,239,2023-03-15,SiCepat,Bekasi,Bekasi Timur,Same Day,4,4,Ontime
+91044,237,2022-10-17,POS Indonesia,Pekanbaru,Senapelan,Next Day,1,2,Ontime
+10474,234,2023-05-20,JNE,Palembang,Kalidoni,Express,2,1,Ontime
+879996,278,2023-01-02,SiCepat,Semarang,Semarang Selatan,Express,3,2,Ontime
+306702,270,2022-11-26,J&T Express,Semarang,Semarang Selatan,Next Day,1,2,Ontime
+287848,163,2022-07-04,J&T Express,Semarang,Pedurungan,Same Day,5,2,Ontime
+148264,238,2023-05-06,JNE,Pontianak,Pontianak Utara,Same Day,3,4,Ontime
+481637,227,2022-07-21,JNE,Depok,Cipayung,Reguler,2,4,Ontime
+130805,291,2023-02-22,SiCepat,Batam,Bengkong,Reguler,1,4,Ontime
+559273,229,2023-03-21,Ninja Xpress,Padang,Bungus Teluk Kabung,Express,3,5,Ontime
+547762,183,2023-03-10,Ninja Xpress,Malang,Klojen,Same Day,4,4,Ontime
+726116,145,2023-04-27,SiCepat,Makassar,Tallo,Same Day,2,5,Ontime
+66331,224,2023-02-24,JNE,Bandung,Coblong,Next Day,4,3,Ontime
+676404,262,2023-05-02,POS Indonesia,Pekanbaru,Bukit Raya,Express,2,2,Ontime
+348227,114,2022-11-17,J&T Express,Tangerang,Pondok Aren,Next Day,3,2,Ontime
+468557,152,2022-06-13,J&T Express,Padang,Padang Barat,Express,1,2,Ontime
+345836,256,2023-01-21,J&T Express,Semarang,Tugu Mulyo,Same Day,2,5,Ontime
+910527,215,2023-02-15,J&T Express,Makassar,Makassar Barat,Reguler,5,5,Ontime
+28078,136,2023-03-24,SiCepat,Pekanbaru,Sukajadi,Same Day,3,5,Ontime
+136094,245,2022-06-28,J&T Express,Medan,Medan Labuhan,Same Day,1,3,Ontime
+269420,159,2022-11-20,JNE,Surakarta,Jebres,Same Day,5,2,Ontime
+572098,297,2023-05-11,Ninja Xpress,Surabaya,Gubeng,Reguler,5,4,Ontime
+186418,135,2022-11-18,JNE,Tangerang,Larangan,Next Day,3,1,Ontime
+635225,190,2022-08-20,POS Indonesia,Bogor,Babakan Madang,Express,5,3,Ontime
+314041,266,2022-06-16,JNE,Semarang,Tugu,Reguler,2,4,Ontime
+555622,146,2023-06-03,POS Indonesia,Pontianak,Pontianak Utara,Express,2,4,Ontime
+698247,117,2022-10-06,JNE,Batam,Bulang,Next Day,3,4,Ontime
+131077,150,2022-07-16,POS Indonesia,Padang,Lubuk Begalung,Express,3,4,Ontime
+523373,256,2023-01-16,J&T Express,Pontianak,Pontianak Utara,Next Day,3,3,Ontime
+487654,190,2022-06-30,POS Indonesia,Bandar Lampung,Teluk Betung Utara,Express,1,3,Ontime
+285768,114,2023-03-31,SiCepat,Padang,Lubuk Begalung,Next Day,1,1,Ontime
+459601,296,2023-04-18,JNE,Surakarta,Pasarsragen,Next Day,2,5,Ontime
+320900,145,2023-06-11,Ninja Xpress,Surabaya,Rungkut,Next Day,1,5,Ontime
+597785,166,2022-07-20,J&T Express,Surakarta,Kraton,Same Day,4,1,Ontime
+2871,293,2022-08-24,Ninja Xpress,Batam,Bengkong,Next Day,5,1,Ontime
+217816,275,2022-12-20,JNE,Surabaya,Lakarsantri,Next Day,3,1,Ontime
+209517,197,2022-11-08,JNE,Depok,Cinere,Same Day,4,4,Ontime
+833540,248,2022-06-15,Ninja Xpress,Surabaya,Benowo,Express,3,4,Ontime
+98308,126,2022-11-28,POS Indonesia,Depok,Sawangan,Same Day,5,1,Ontime
+951467,202,2023-01-26,SiCepat,Jakarta,Mampang Prapatan,Express,3,5,Ontime
+568506,221,2023-03-05,SiCepat,Jakarta,Grogol Petamburan,Same Day,4,2,Ontime
+254252,133,2022-06-12,SiCepat,Depok,Limo,Reguler,1,5,Ontime
+309320,283,2023-05-13,JNE,Makassar,Ujung Tanah,Next Day,4,3,Ontime
+42620,193,2023-04-29,J&T Express,Bogor,Cigombong,Reguler,3,3,Ontime
+283275,182,2022-11-28,SiCepat,Tangerang,Serpong Selatan,Express,3,2,Ontime
+474390,271,2022-08-17,J&T Express,Depok,Cimanggis,Same Day,3,2,Ontime
+926773,118,2023-02-03,SiCepat,Pontianak,Pontianak Barat,Same Day,4,3,Ontime
+706314,167,2023-01-20,JNE,Tangerang,Karawaci,Same Day,2,3,Ontime
+237212,194,2023-01-06,SiCepat,Surakarta,Mojogedang,Express,3,2,Ontime
+152128,130,2022-07-11,JNE,Batam,Belakang Padang,Reguler,5,1,Ontime
+538666,140,2023-04-22,J&T Express,Tangerang,Pondok Aren,Reguler,5,4,Ontime
+263085,218,2023-04-14,JNE,Yogyakarta,Panembahan,Reguler,4,4,Ontime
+296961,170,2022-06-28,POS Indonesia,Semarang,Mijen,Next Day,5,3,Ontime
+117103,196,2023-04-10,Ninja Xpress,Palembang,Jakabaring,Reguler,4,2,Ontime
+184036,127,2022-08-16,JNE,Denpasar,Sanur,Next Day,2,2,Ontime
+806644,136,2023-05-31,Ninja Xpress,Makassar,Ujung Tanah,Same Day,5,1,Ontime
+800581,296,2023-04-05,JNE,Malang,Sukun,Reguler,4,1,Ontime
+562784,157,2022-09-16,JNE,Makassar,Tallo,Same Day,1,4,Ontime
+693735,238,2023-01-22,J&T Express,Denpasar,Nusa Dua,Next Day,4,5,Ontime
+440125,178,2023-03-19,J&T Express,Padang,Padang Selatan,Express,4,5,Ontime
+625141,266,2022-08-13,J&T Express,Pekanbaru,Marpoyan Damai,Same Day,3,4,Ontime
+624796,173,2023-01-01,Ninja Xpress,Surabaya,Kenjeran,Reguler,1,1,Ontime
+87501,214,2023-03-24,J&T Express,Denpasar,Renon,Next Day,1,5,Ontime
+22800,189,2023-02-02,SiCepat,Batam,Batu Aji,Express,3,1,Ontime
+940115,162,2023-03-09,JNE,Jakarta,Menteng,Express,5,2,Ontime
+250552,167,2022-07-28,Ninja Xpress,Batam,Galang,Express,1,3,Ontime
+80737,148,2023-02-27,JNE,Makassar,Makassar Selatan,Next Day,1,4,Ontime
+447405,289,2022-07-30,POS Indonesia,Semarang,Semanan,Express,5,4,Ontime
+862161,165,2022-07-08,J&T Express,Surabaya,Wonokromo,Express,2,5,Ontime
+249874,290,2023-05-17,J&T Express,Denpasar,Renon,Reguler,2,5,Ontime
+290652,239,2022-08-09,J&T Express,Depok,Cipayung,Same Day,4,5,Ontime
+572186,146,2023-06-04,Ninja Xpress,Semarang,Semarang Utara,Express,1,5,Ontime
+298032,191,2022-11-09,POS Indonesia,Bandung,Mandalajati,Next Day,1,2,Ontime
+166147,167,2023-03-27,SiCepat,Bandung,Bojongloa Kidul,Next Day,3,5,Ontime
+39858,272,2023-03-12,J&T Express,Palembang,Ilir Timur Tiga,Same Day,5,4,Ontime
+829107,231,2022-11-21,SiCepat,Pontianak,Pontianak Timur,Next Day,4,4,Ontime
+316606,132,2023-01-30,JNE,Depok,Mekarsari,Express,4,2,Ontime
+6709,300,2022-10-13,J&T Express,Pontianak,Pontianak Timur,Next Day,3,3,Ontime
+152579,239,2022-08-17,J&T Express,Medan,Medan Barat,Next Day,3,3,Ontime
+624557,274,2022-12-07,POS Indonesia,Pontianak,Pontianak Timur,Reguler,4,5,Ontime
+224427,169,2023-03-16,Ninja Xpress,Pekanbaru,Bukit Raya,Reguler,3,4,Ontime
+850696,289,2022-10-01,POS Indonesia,Bekasi,Bekasi Timur,Next Day,4,2,Ontime
+338342,230,2022-11-28,J&T Express,Surakarta,Batuwarno,Same Day,4,3,Ontime
+704339,193,2023-02-25,SiCepat,Semarang,Candisari,Reguler,2,4,Ontime
+54255,275,2022-06-23,POS Indonesia,Denpasar,Denpasar Utara,Same Day,1,4,Ontime
+522582,182,2022-11-03,POS Indonesia,Batam,Galang,Express,3,1,Ontime
+76898,187,2022-09-10,JNE,Surabaya,Tegalsari,Same Day,1,3,Ontime
+787450,243,2023-04-27,Ninja Xpress,Jakarta,Tanah Abang,Next Day,1,4,Ontime
+881689,240,2022-08-21,SiCepat,Depok,Tapos,Reguler,5,5,Ontime
+236278,122,2022-10-14,SiCepat,Bogor,Dramaga,Same Day,3,4,Ontime
+336216,131,2022-11-11,POS Indonesia,Yogyakarta,Prawirotaman,Express,4,3,Ontime
+528778,158,2022-12-04,JNE,Jakarta,Pancoran,Next Day,4,2,Ontime
+39702,208,2022-08-30,JNE,Surabaya,Tandes,Same Day,1,5,Ontime
+197087,295,2023-02-11,J&T Express,Makassar,Makassar Barat,Reguler,2,4,Ontime
+201748,120,2023-02-16,SiCepat,Pontianak,Pontianak Tenggara,Express,4,4,Ontime
+527226,267,2022-07-15,POS Indonesia,Pontianak,Pontianak Selatan,Express,2,5,Ontime
+377453,200,2022-09-13,SiCepat,Batam,Lubuk Baja,Same Day,1,3,Ontime
+274984,186,2022-06-21,POS Indonesia,Batam,Batam Kota,Express,5,2,Ontime
+670139,220,2022-11-03,POS Indonesia,Padang,Padang Utara,Reguler,5,2,Ontime
+732307,230,2022-12-09,POS Indonesia,Semarang,Semarang Timur,Reguler,1,3,Ontime
+339779,219,2022-10-12,SiCepat,Pontianak,Pontianak Barat,Express,3,5,Ontime
+571677,112,2023-02-03,Ninja Xpress,Pekanbaru,Tampan,Same Day,3,1,Ontime
+700557,218,2023-01-14,J&T Express,Padang,Padang Utara,Reguler,5,2,Ontime
+523208,125,2022-11-23,J&T Express,Batam,Sekupang,Next Day,1,1,Ontime
+302541,143,2023-04-08,J&T Express,Pontianak,Pontianak Kota,Same Day,2,4,Ontime
+604845,135,2023-02-23,POS Indonesia,Depok,Sawangan,Same Day,2,4,Ontime
+145456,252,2023-03-11,SiCepat,Pontianak,Pontianak Timur,Express,4,5,Ontime
+660257,208,2022-11-28,J&T Express,Batam,Sagulung,Next Day,4,2,Ontime
+127101,138,2022-08-06,JNE,Jakarta,Menteng,Reguler,1,5,Ontime
+230013,233,2023-05-11,SiCepat,Medan,Medan Belawan,Same Day,4,2,Ontime
+354173,282,2023-04-16,Ninja Xpress,Pekanbaru,Rumbai,Express,5,5,Ontime
+320103,168,2022-07-24,POS Indonesia,Bandung,Bandung Wetan,Express,5,3,Ontime
+101871,270,2022-11-30,POS Indonesia,Palembang,Ilir Timur II,Express,5,2,Ontime
+121340,175,2023-05-16,Ninja Xpress,Surakarta,Banyudono,Next Day,3,4,Ontime
+684873,135,2023-01-06,SiCepat,Palembang,Bukit Kecil,Reguler,5,3,Ontime
+46361,229,2022-09-03,SiCepat,Batam,Sekupang,Next Day,5,3,Ontime
+411394,111,2022-07-02,POS Indonesia,Pontianak,Pontianak Barat,Reguler,5,2,Ontime
+697061,149,2023-02-15,Ninja Xpress,Depok,Cinere,Next Day,4,1,Ontime
+802601,235,2023-04-24,POS Indonesia,Depok,Bojongsari,Next Day,2,5,Ontime
+480585,179,2022-12-25,SiCepat,Surabaya,Sambikerep,Same Day,4,2,Ontime
+954360,115,2023-01-16,Ninja Xpress,Pontianak,Pontianak Selatan,Reguler,3,1,Ontime
+21496,248,2022-07-04,SiCepat,Semarang,Gajahmungkur,Next Day,2,5,Ontime
+80576,134,2023-04-10,Ninja Xpress,Pontianak,Pontianak Timur,Same Day,2,2,Ontime
+552345,210,2023-04-26,J&T Express,Denpasar,Padangsambian,Same Day,5,4,Ontime
+134107,194,2022-12-13,POS Indonesia,Malang,Poncokusumo,Reguler,2,3,Ontime
+566764,226,2023-01-03,POS Indonesia,Yogyakarta,Ngampilan,Express,5,1,Ontime
+549053,246,2022-08-07,Ninja Xpress,Pontianak,Pontianak Barat,Express,3,4,Ontime
+657081,217,2022-10-21,SiCepat,Surabaya,Lakarsantri,Next Day,3,5,Ontime
+315767,193,2022-10-31,SiCepat,Yogyakarta,Terban,Express,5,4,Ontime
+952177,295,2023-03-06,JNE,Medan,Medan Labuhan,Next Day,5,2,Ontime
+900741,136,2023-06-01,SiCepat,Jakarta,Cipayung,Express,1,4,Ontime
+104986,198,2022-06-18,POS Indonesia,Bogor,Gunung Putri,Same Day,4,2,Ontime
+262269,264,2022-08-26,J&T Express,Pontianak,Pontianak Tenggara,Reguler,2,4,Ontime
+799818,193,2023-06-11,SiCepat,Palembang,Kertapati,Reguler,5,1,Ontime
+353281,182,2022-08-04,J&T Express,Padang,Padang Selatan,Same Day,5,4,Ontime
+288588,278,2022-11-12,SiCepat,Malang,Sukun,Express,5,4,Ontime
+832752,290,2023-05-24,SiCepat,Jakarta,Matraman,Next Day,2,5,Ontime
+188383,270,2022-06-25,SiCepat,Jakarta,Pasar Rebo,Reguler,5,1,Ontime
+119199,118,2022-08-26,SiCepat,Batam,Galang,Express,4,2,Ontime
+997217,270,2023-04-04,Ninja Xpress,Tangerang,Larangan,Next Day,4,2,Ontime
+827017,288,2022-12-05,Ninja Xpress,Palembang,Jakabaring,Same Day,2,3,Ontime
+202469,189,2022-11-13,SiCepat,Pekanbaru,Bukit Raya,Reguler,3,3,Ontime
+53041,270,2023-01-30,SiCepat,Bogor,Bogor Selatan,Next Day,2,1,Ontime
+791990,189,2022-09-22,J&T Express,Makassar,Bontoala,Same Day,3,3,Ontime
+106546,156,2023-05-01,Ninja Xpress,Surakarta,Banyudono,Same Day,1,4,Ontime
+124404,193,2023-03-21,J&T Express,Makassar,Manggala,Express,2,2,Ontime
+30153,258,2022-10-18,POS Indonesia,Surabaya,Wonokromo,Reguler,4,5,Ontime
+893039,289,2022-07-23,SiCepat,Padang,Nanggalo,Same Day,1,4,Ontime
+322348,170,2022-12-05,Ninja Xpress,Surabaya,Sukolilo,Express,2,3,Ontime
+234834,119,2022-06-13,Ninja Xpress,Pontianak,Pontianak Kota,Same Day,4,1,Ontime
+690013,186,2022-07-30,JNE,Batam,Sagulung,Express,5,4,Ontime
+356897,123,2023-02-26,Ninja Xpress,Depok,Beji,Express,3,2,Ontime
+564132,125,2023-02-08,J&T Express,Surakarta,Mojogedang,Next Day,4,4,Ontime
+58539,253,2023-03-15,Ninja Xpress,Padang,Lubuk Begalung,Reguler,1,5,Ontime
+225280,211,2022-07-08,J&T Express,Batam,Lubuk Baja,Same Day,5,4,Ontime
+138562,144,2022-10-09,POS Indonesia,Bandar Lampung,Tanjung Karang Pusat,Reguler,2,3,Ontime
+974686,279,2022-08-24,SiCepat,Malang,Ngajung,Next Day,3,3,Ontime
+370017,228,2022-09-11,SiCepat,Bandung,Regol,Same Day,2,4,Ontime
+547987,167,2022-10-18,J&T Express,Makassar,Makassar Timur,Reguler,5,1,Ontime
+176761,300,2022-06-19,POS Indonesia,Pontianak,Pontianak Kota,Same Day,2,4,Ontime
+682514,201,2022-06-18,J&T Express,Makassar,Makassar Selatan,Next Day,5,3,Ontime
+179300,272,2022-12-14,POS Indonesia,Depok,Sawangan,Reguler,3,5,Ontime
+360523,188,2023-02-11,Ninja Xpress,Bandung,Bojongloa Kaler,Same Day,5,3,Ontime
+306944,207,2022-11-28,POS Indonesia,Denpasar,Pecatu,Next Day,3,5,Ontime
+551847,186,2022-09-10,JNE,Makassar,Makassar Utara,Next Day,4,4,Ontime
+811081,280,2022-10-04,SiCepat,Depok,Tapos,Same Day,1,4,Ontime
+853769,278,2022-11-03,SiCepat,Jakarta,Menteng,Reguler,2,5,Ontime
+980732,133,2023-02-09,SiCepat,Yogyakarta,Ngampilan,Next Day,1,1,Ontime
+577098,262,2023-01-09,SiCepat,Bogor,Gunung Putri,Next Day,3,5,Ontime
+871210,279,2022-08-20,Ninja Xpress,Medan,Medan Denai,Next Day,2,3,Ontime
+704923,270,2022-12-14,JNE,Batam,Nongsa,Same Day,2,4,Ontime
+940500,236,2022-09-09,SiCepat,Surakarta,Karanganyar,Express,1,5,Ontime
+480084,210,2023-02-28,SiCepat,Medan,Medan Tembung,Next Day,3,3,Ontime
+176891,258,2022-10-01,J&T Express,Yogyakarta,Terban,Same Day,1,2,Ontime
+520781,293,2022-10-01,Ninja Xpress,Surabaya,Wonokromo,Same Day,4,3,Ontime
+106889,217,2023-05-25,J&T Express,Bandung,Babakan Ciparay,Reguler,1,1,Ontime
+747765,214,2023-04-21,SiCepat,Makassar,Tallo,Reguler,3,2,Ontime
+62241,176,2022-11-17,SiCepat,Denpasar,Padangsambian,Same Day,2,1,Ontime
+698902,120,2023-03-01,SiCepat,Medan,Medan Amplas,Same Day,4,5,Ontime
+138106,207,2022-12-06,J&T Express,Denpasar,Serangan,Same Day,5,1,Ontime
+575271,129,2023-04-11,SiCepat,Palembang,Seberang Ulu III,Reguler,4,2,Ontime
+349514,126,2023-03-20,Ninja Xpress,Jakarta,Kramat Jati,Reguler,4,4,Ontime
+160530,285,2022-10-03,SiCepat,Surabaya,Kenjeran,Next Day,1,3,Ontime
+408883,125,2022-08-08,SiCepat,Padang,Padang Timur,Next Day,4,3,Ontime
+698464,292,2023-01-09,Ninja Xpress,Padang,Padang Utara,Reguler,2,4,Ontime
+757915,136,2022-10-28,SiCepat,Pekanbaru,Pekanbaru Kota,Same Day,3,5,Ontime
+678641,297,2023-02-06,Ninja Xpress,Makassar,Tallo,Reguler,4,4,Ontime
+134204,142,2022-07-11,POS Indonesia,Malang,Tumpang,Express,2,4,Ontime
+20454,261,2022-07-17,Ninja Xpress,Pontianak,Pontianak Kota,Next Day,2,3,Ontime
+972840,167,2023-05-30,POS Indonesia,Pontianak,Pontianak Barat,Express,1,2,Ontime
+831523,241,2022-12-20,JNE,Depok,Cinere,Express,1,1,Ontime
+252105,230,2023-03-24,SiCepat,Tangerang,Benda,Same Day,5,3,Ontime
+677064,283,2022-07-16,J&T Express,Bandung,Rancasari,Express,2,5,Ontime
+199651,118,2023-04-26,POS Indonesia,Padang,Bungus Teluk Kabung,Same Day,2,5,Ontime
+95781,188,2023-05-13,JNE,Bogor,Babakan Madang,Express,1,5,Ontime
+840873,153,2022-12-25,POS Indonesia,Surakarta,Batuwarno,Express,1,1,Ontime
+826230,114,2023-02-17,SiCepat,Tangerang,Sepatan,Express,1,4,Ontime
+513787,211,2023-05-29,SiCepat,Denpasar,Denpasar Timur,Same Day,5,2,Ontime
+861864,287,2023-03-31,SiCepat,Denpasar,Kuta,Express,3,5,Ontime
+975377,193,2022-09-13,JNE,Pekanbaru,Lima Puluh,Same Day,4,4,Ontime
+25131,258,2022-08-08,Ninja Xpress,Bogor,Bogor Selatan,Express,1,2,Ontime
+83268,122,2022-11-21,JNE,Semarang,Pedurungan,Reguler,4,3,Ontime
+49471,214,2022-06-30,POS Indonesia,Bandar Lampung,Tanjung Karang Timur,Reguler,3,3,Ontime
+694407,120,2023-05-22,JNE,Medan,Medan Petisah,Same Day,2,5,Ontime
+35852,299,2023-02-17,SiCepat,Bandar Lampung,Tanjung Karang Timur,Reguler,1,1,Ontime
+861020,227,2023-02-28,POS Indonesia,Bandar Lampung,Teluk Betung Utara,Express,5,2,Ontime
+806365,263,2022-10-14,SiCepat,Bandung,Rancasari,Next Day,4,5,Ontime
+244132,171,2022-07-07,JNE,Jakarta,Grogol Petamburan,Express,2,3,Ontime
+830695,161,2022-12-31,SiCepat,Padang,Koto Tangah,Next Day,2,3,Ontime
+210462,244,2023-01-14,SiCepat,Pekanbaru,Sail,Express,4,3,Ontime
+776685,159,2023-02-22,Ninja Xpress,Palembang,Kemuning,Next Day,4,4,Ontime
+117570,162,2022-10-17,J&T Express,Bandar Lampung,Sukarame,Same Day,2,5,Ontime
+728517,115,2022-11-26,SiCepat,Surakarta,Ngargoyoso,Reguler,2,5,Ontime
+102819,199,2022-08-22,J&T Express,Malang,Kedungkandang,Reguler,3,1,Ontime
+623413,185,2023-04-19,SiCepat,Pontianak,Pontianak Tenggara,Next Day,1,2,Ontime
+454016,161,2022-08-04,Ninja Xpress,Semarang,Gajahmungkur,Reguler,3,4,Ontime
+891336,129,2023-05-20,SiCepat,Tangerang,Ciputat,Express,2,4,Ontime
+484988,288,2022-10-05,POS Indonesia,Semarang,Tembalang,Reguler,1,2,Ontime
+394546,165,2022-11-10,J&T Express,Medan,Medan Timur,Reguler,2,3,Ontime
+369326,287,2022-07-03,POS Indonesia,Batam,Galang,Reguler,3,2,Ontime
+864633,197,2023-02-15,JNE,Batam,Lubuk Baja,Same Day,4,2,Ontime
+264733,127,2022-11-07,Ninja Xpress,Malang,Pakisaji,Reguler,2,5,Ontime
+83979,229,2022-08-10,J&T Express,Surakarta,Ngargoyoso,Express,2,4,Ontime
+888680,136,2023-01-11,J&T Express,Jakarta,Grogol Petamburan,Same Day,5,2,Ontime
+492193,174,2023-04-16,J&T Express,Palembang,Sukabangun,Same Day,2,1,Ontime
+755595,280,2022-10-25,Ninja Xpress,Malang,Bululawang,Express,2,1,Ontime
+347161,127,2023-01-26,J&T Express,Depok,Pancoran Mas,Same Day,1,5,Ontime
+243378,177,2022-11-12,J&T Express,Surabaya,Asemrowo,Same Day,2,2,Ontime
+666755,223,2023-04-04,SiCepat,Bekasi,Pondok Gede,Next Day,3,2,Ontime
+153449,221,2023-03-16,Ninja Xpress,Jakarta,Pasar Rebo,Express,1,2,Ontime
+148109,166,2022-07-27,SiCepat,Makassar,Bontoala,Next Day,3,4,Ontime
+586536,214,2023-02-07,J&T Express,Medan,Medan Baru,Next Day,3,3,Ontime
+402402,164,2022-08-17,JNE,Tangerang,Ciputat,Next Day,2,4,Ontime
+358603,282,2023-02-13,Ninja Xpress,Surabaya,Tegalsari,Reguler,1,3,Ontime
+905646,199,2022-06-18,POS Indonesia,Medan,Medan Labuhan,Reguler,5,2,Ontime
+171982,266,2023-03-16,J&T Express,Pontianak,Pontianak Barat,Reguler,2,1,Ontime
+399010,214,2023-04-26,SiCepat,Tangerang,Kosambi,Reguler,5,3,Ontime
+552736,274,2022-11-10,SiCepat,Bogor,Ciawi,Reguler,3,2,Ontime
+732920,170,2022-10-24,Ninja Xpress,Pontianak,Pontianak Tenggara,Express,2,1,Ontime
+253436,150,2023-02-09,SiCepat,Malang,Lowokwaru,Reguler,4,4,Ontime
+877278,299,2023-01-03,POS Indonesia,Bogor,Dramaga,Same Day,1,5,Ontime
+942315,230,2022-11-26,JNE,Surabaya,Gubeng,Reguler,1,2,Ontime
+705991,176,2022-11-16,J&T Express,Bandung,Cicendo,Next Day,4,4,Ontime
+393615,222,2022-06-18,SiCepat,Batam,Batu Aji,Next Day,2,3,Ontime
+91279,297,2022-07-29,Ninja Xpress,Batam,Batam Kota,Express,1,5,Ontime
+380812,128,2023-01-20,J&T Express,Tangerang,Kronjo,Next Day,2,2,Ontime
+180655,208,2022-12-11,J&T Express,Semarang,Banyumanik,Express,2,3,Ontime
+10979,185,2023-03-25,J&T Express,Palembang,Sako,Same Day,1,4,Ontime
+958236,287,2023-05-22,JNE,Denpasar,Padangsambian,Same Day,5,1,Ontime
+376582,220,2023-05-18,SiCepat,Pekanbaru,Sukajadi,Next Day,5,3,Ontime
+832297,143,2022-11-15,SiCepat,Surakarta,Banyudono,Express,1,3,Ontime
+868583,246,2023-05-20,POS Indonesia,Bekasi,Jatiwaringin,Reguler,5,4,Ontime
+210139,111,2022-09-23,SiCepat,Pekanbaru,Bukit Raya,Express,1,5,Ontime
+258284,261,2022-06-25,Ninja Xpress,Malang,Bululawang,Express,3,1,Ontime
+70640,161,2022-10-18,J&T Express,Jakarta,Sawah Besar,Express,1,4,Ontime
+240996,279,2023-04-02,SiCepat,Tangerang,Sindang Jaya,Same Day,4,2,Ontime
+955353,223,2022-08-28,JNE,Bandar Lampung,Panjang,Same Day,5,1,Ontime
+885559,260,2023-03-19,SiCepat,Denpasar,Denpasar Utara,Same Day,1,5,Ontime
+26700,221,2022-09-30,Ninja Xpress,Yogyakarta,Gondomanan,Reguler,5,2,Ontime
+594045,262,2022-08-24,J&T Express,Tangerang,Sindang Jaya,Same Day,5,5,Ontime
+668917,149,2023-01-10,J&T Express,Surabaya,Bubutan,Same Day,2,3,Ontime
+438618,205,2022-10-22,SiCepat,Bandar Lampung,Sukabumi,Next Day,1,2,Ontime
+804676,166,2022-11-25,POS Indonesia,Pontianak,Pontianak Selatan,Same Day,1,4,Ontime
+518369,227,2022-09-30,POS Indonesia,Makassar,Tallo,Same Day,2,3,Ontime
+825786,193,2022-10-03,J&T Express,Batam,Sagulung,Next Day,2,2,Ontime
+265787,145,2022-08-08,POS Indonesia,Pontianak,Pontianak Kota,Reguler,4,4,Ontime
+817600,273,2022-09-29,SiCepat,Makassar,Ujung Tanah,Express,5,5,Ontime
+313257,115,2022-08-14,POS Indonesia,Bogor,Cigombong,Express,5,1,Ontime
+747428,125,2022-07-09,J&T Express,Denpasar,Denpasar Selatan,Reguler,2,5,Ontime
+291502,247,2022-12-27,J&T Express,Denpasar,Denpasar Utara,Reguler,5,3,Ontime
+867466,281,2023-03-23,SiCepat,Depok,Pancoran Mas,Reguler,3,1,Ontime
+776407,263,2023-03-16,SiCepat,Batam,Belakang Padang,Express,4,2,Ontime
+825302,230,2022-08-02,JNE,Pontianak,Pontianak Selatan,Reguler,2,2,Ontime
+783504,219,2023-02-08,JNE,Tangerang,Kronjo,Reguler,1,1,Ontime
+260197,217,2022-10-01,POS Indonesia,Pekanbaru,Tampan,Next Day,5,2,Ontime
+233151,144,2023-03-21,JNE,Bogor,Megamendung,Reguler,3,2,Ontime
+791575,120,2022-10-26,J&T Express,Pekanbaru,Sukajadi,Next Day,1,3,Ontime
+185895,169,2023-02-01,Ninja Xpress,Yogyakarta,Kraton,Express,1,2,Ontime
+523176,236,2022-06-22,J&T Express,Surakarta,Laweyan,Same Day,2,1,Ontime
+377742,190,2022-08-30,J&T Express,Palembang,Seberang Ulu II,Same Day,1,1,Ontime
+523170,189,2023-04-11,POS Indonesia,Medan,Medan Selayang,Same Day,2,4,Ontime
+995581,165,2023-03-13,Ninja Xpress,Medan,Medan Polonia,Reguler,5,5,Ontime
+403598,292,2023-02-15,SiCepat,Jakarta,Kebayoran Baru,Reguler,3,1,Ontime
+372264,213,2022-08-18,JNE,Depok,Tapos,Next Day,5,4,Ontime
+621945,234,2022-12-10,SiCepat,Malang,Kedungkandang,Next Day,4,2,Ontime
+463057,271,2023-03-06,POS Indonesia,Tangerang,Ciputat,Express,1,2,Ontime
+661356,178,2023-04-05,J&T Express,Palembang,Seberang Ulu I,Next Day,3,2,Ontime
+264209,113,2023-02-18,JNE,Jakarta,Gambir,Same Day,4,4,Ontime
+344083,134,2023-05-30,J&T Express,Jakarta,Senen,Next Day,2,3,Ontime
+393684,299,2023-06-09,Ninja Xpress,Batam,Batu Aji,Same Day,4,2,Ontime
+390651,184,2022-12-04,J&T Express,Denpasar,Denpasar Utara,Next Day,3,2,Ontime
+356811,217,2022-10-25,J&T Express,Bandung,Kiaracondong,Next Day,1,3,Ontime
+584159,280,2023-03-13,Ninja Xpress,Pontianak,Pontianak Tenggara,Reguler,1,4,Ontime
+370985,183,2022-10-14,SiCepat,Medan,Medan Johor,Express,3,3,Ontime
+206209,228,2023-03-07,POS Indonesia,Palembang,Kertapati,Next Day,2,5,Ontime
+387429,225,2022-11-26,SiCepat,Tangerang,Sindang Jaya,Next Day,4,5,Ontime
+622488,217,2023-05-04,SiCepat,Semarang,Genuk,Same Day,2,1,Ontime
+297012,131,2023-05-09,Ninja Xpress,Surabaya,Kenjeran,Next Day,2,4,Ontime
+683091,285,2022-09-21,POS Indonesia,Depok,Bojongsari,Reguler,4,5,Ontime
+264140,184,2023-03-05,JNE,Batam,Nongsa,Express,4,3,Ontime
+560893,144,2023-05-01,Ninja Xpress,Medan,Medan Labuhan,Express,2,2,Ontime
+827532,261,2022-07-31,SiCepat,Yogyakarta,Ngampilan,Express,5,3,Ontime
+442125,262,2023-01-29,Ninja Xpress,Bekasi,Bantargebang,Express,2,2,Ontime
+773032,248,2023-04-05,SiCepat,Malang,Lowokwaru,Same Day,1,4,Ontime
+935888,152,2023-02-13,SiCepat,Bandar Lampung,Rajabasa,Reguler,5,1,Ontime
+498296,268,2022-10-01,Ninja Xpress,Bandar Lampung,Tanjung Karang Barat,Same Day,5,4,Ontime
+117842,229,2022-11-06,JNE,Bekasi,Rawalumbu,Next Day,1,2,Ontime
+20269,213,2022-07-26,JNE,Malang,Bululawang,Reguler,2,2,Ontime
+271016,219,2022-07-08,Ninja Xpress,Pekanbaru,Pekanbaru Kota,Next Day,3,1,Ontime
+565567,174,2023-05-15,Ninja Xpress,Surakarta,Batuwarno,Reguler,3,1,Ontime
+941929,202,2022-12-20,SiCepat,Pekanbaru,Lima Puluh,Same Day,2,1,Ontime
+732253,148,2022-10-11,Ninja Xpress,Bogor,Jonggol,Next Day,4,2,Ontime
+270448,186,2022-10-07,SiCepat,Pontianak,Pontianak Selatan,Reguler,3,5,Ontime
+216657,290,2022-09-15,J&T Express,Bekasi,Pondok Gede,Next Day,1,4,Ontime
+386041,205,2022-09-21,POS Indonesia,Padang,Padang Barat,Next Day,3,4,Ontime
+295029,243,2023-03-05,J&T Express,Denpasar,Padangsambian Klod,Express,2,4,Ontime
+488881,121,2023-02-05,Ninja Xpress,Bandar Lampung,Tanjung Senang,Next Day,4,1,Ontime
+62985,153,2022-10-08,JNE,Medan,Medan Petisah,Reguler,1,4,Ontime
+505419,151,2022-11-29,SiCepat,Bogor,Gunung Putri,Same Day,5,4,Ontime
+141710,145,2023-03-27,POS Indonesia,Bandar Lampung,Panjang,Same Day,2,4,Ontime
+62645,214,2023-06-09,J&T Express,Depok,Limo,Reguler,4,1,Ontime
+696934,204,2022-08-12,Ninja Xpress,Bandung,Rancasari,Same Day,2,5,Ontime
+388449,222,2022-09-14,SiCepat,Depok,Mekarsari,Express,2,5,Ontime
+55086,131,2022-06-15,Ninja Xpress,Batam,Galang,Reguler,5,5,Ontime
+555247,121,2022-08-13,JNE,Surabaya,Gubeng,Express,3,3,Ontime
+147369,120,2023-03-08,J&T Express,Bekasi,Jatiasih,Same Day,5,4,Ontime
+722251,202,2022-06-28,POS Indonesia,Surabaya,Semampir,Reguler,4,5,Ontime
+346751,267,2022-06-12,POS Indonesia,Makassar,Panakkukang,Express,3,4,Ontime
+990465,142,2023-01-17,J&T Express,Tangerang,Pondok Aren,Next Day,5,2,Ontime
+424531,141,2023-05-31,SiCepat,Medan,Medan Amplas,Same Day,4,5,Ontime
+28090,200,2022-09-05,SiCepat,Yogyakarta,Wirobrajan,Same Day,4,1,Ontime
+885084,179,2023-06-04,JNE,Malang,Sukun,Same Day,2,3,Ontime
+752067,225,2023-06-08,Ninja Xpress,Denpasar,Padangsambian Klod,Next Day,1,5,Ontime
+521488,273,2022-06-15,JNE,Depok,Mekarsari,Express,2,2,Ontime
+484913,138,2022-11-27,JNE,Batam,Sagulung,Express,4,3,Ontime
+590858,182,2022-12-30,POS Indonesia,Palembang,Ilir Barat I,Express,5,3,Ontime
+217827,112,2022-08-19,JNE,Jakarta,Cempaka Putih,Express,1,5,Ontime
+321993,185,2023-01-09,Ninja Xpress,Padang,Lubuk Begalung,Same Day,1,3,Ontime
+943686,242,2022-12-04,SiCepat,Padang,Koto Tangah,Express,1,3,Ontime
+192157,243,2022-07-08,POS Indonesia,Depok,Limo,Reguler,2,2,Ontime
+826492,115,2023-01-12,JNE,Palembang,Ilir Barat I,Express,5,3,Ontime
+879000,275,2022-08-07,Ninja Xpress,Jakarta,Gambir,Express,5,5,Ontime
+654489,285,2022-11-19,JNE,Pekanbaru,Pekanbaru Kota,Express,5,4,Ontime
+809235,154,2023-03-18,Ninja Xpress,Depok,Cimanggis,Reguler,3,2,Ontime
+28566,167,2022-10-08,Ninja Xpress,Depok,Cipayung,Same Day,1,4,Ontime
+389369,285,2023-01-11,J&T Express,Pontianak,Pontianak Kota,Express,5,2,Ontime
+695008,261,2023-02-28,Ninja Xpress,Surakarta,Kraton,Reguler,3,3,Ontime
+912556,192,2022-10-16,POS Indonesia,Semarang,Semanan,Same Day,2,1,Ontime
+559614,140,2022-11-21,J&T Express,Palembang,Seberang Ulu II,Reguler,3,4,Ontime
+944315,274,2022-07-21,POS Indonesia,Bandung,Cidadap,Reguler,1,1,Ontime
+602380,293,2023-02-27,SiCepat,Palembang,Kertapati,Express,1,2,Ontime
+705442,192,2022-09-25,J&T Express,Jakarta,Kebayoran Baru,Express,1,3,Ontime
+532402,192,2022-07-29,SiCepat,Yogyakarta,Tegalrejo,Same Day,2,1,Ontime
+744641,219,2023-01-23,SiCepat,Depok,Tapos,Reguler,2,2,Ontime
+650778,238,2023-06-09,J&T Express,Surabaya,Mulyorejo,Same Day,4,3,Ontime
+474123,248,2022-07-09,J&T Express,Surabaya,Sukolilo,Next Day,5,2,Ontime
+187934,199,2022-09-01,Ninja Xpress,Malang,Blimbing,Same Day,2,2,Ontime
+910756,300,2022-07-22,POS Indonesia,Bogor,Bogor Utara,Same Day,3,5,Ontime
+700008,279,2023-03-28,Ninja Xpress,Yogyakarta,Mergangsan,Express,2,1,Ontime
+321433,263,2022-12-22,Ninja Xpress,Denpasar,Tuban,Same Day,3,1,Ontime
+751380,202,2023-04-12,Ninja Xpress,Denpasar,Benoa,Same Day,5,3,Ontime
+318425,133,2022-11-03,POS Indonesia,Bekasi,Pondok Melati,Same Day,3,3,Ontime
+515588,299,2023-04-25,JNE,Malang,Blimbing,Next Day,2,4,Ontime
+957014,187,2023-03-27,J&T Express,Batam,Galang,Reguler,1,5,Ontime
+226504,132,2023-05-27,Ninja Xpress,Yogyakarta,Gondomanan,Same Day,5,5,Ontime
+738242,164,2022-09-03,J&T Express,Denpasar,Kuta,Reguler,3,4,Ontime
+927784,272,2022-08-14,J&T Express,Pekanbaru,Marpoyan Damai,Express,1,3,Ontime
+110268,270,2023-01-22,J&T Express,Pekanbaru,Tampan,Same Day,1,2,Ontime
+582962,209,2022-10-14,Ninja Xpress,Jakarta,Gambir,Next Day,5,5,Ontime
+492907,216,2022-08-13,J&T Express,Bogor,Cibinong,Same Day,2,3,Ontime
+671817,190,2023-01-15,SiCepat,Pontianak,Pontianak Timur,Same Day,3,1,Ontime
+715223,116,2023-05-07,POS Indonesia,Malang,Kedungkandang,Express,1,2,Ontime
+652784,218,2022-06-15,JNE,Palembang,Kemuning,Next Day,5,4,Ontime
+241486,288,2022-12-26,Ninja Xpress,Malang,Klojen,Reguler,3,1,Ontime
+815940,277,2022-11-01,Ninja Xpress,Pontianak,Pontianak Selatan,Next Day,1,5,Ontime
+239779,241,2023-02-05,POS Indonesia,Bogor,Nanggung,Next Day,4,5,Ontime
+141512,220,2023-01-08,POS Indonesia,Surabaya,Semampir,Next Day,5,4,Ontime
+594762,242,2023-04-22,SiCepat,Bekasi,Pondok Melati,Reguler,5,4,Ontime
+410076,180,2022-10-27,SiCepat,Yogyakarta,Keparakan,Express,5,5,Ontime
+98254,183,2023-02-13,J&T Express,Bandung,Bojongloa Kaler,Next Day,2,3,Ontime
+724236,138,2022-09-09,SiCepat,Malang,Sumbermanjing,Reguler,2,2,Ontime
+715372,175,2022-12-28,J&T Express,Batam,Nongsa,Same Day,5,2,Ontime
+389424,242,2022-08-28,JNE,Tangerang,Legok,Express,5,3,Ontime
+757247,247,2022-07-07,JNE,Yogyakarta,Kraton,Reguler,1,5,Ontime
+227331,265,2023-02-03,POS Indonesia,Batam,Sekupang,Reguler,5,1,Ontime
+694792,256,2023-04-27,POS Indonesia,Surakarta,Banyudono,Same Day,3,3,Ontime
+494115,183,2023-03-28,JNE,Jakarta,Grogol Petamburan,Reguler,3,3,Ontime
+337010,297,2023-06-03,Ninja Xpress,Pekanbaru,Lima Puluh,Express,4,4,Ontime
+827687,237,2023-02-02,POS Indonesia,Denpasar,Denpasar Timur,Next Day,4,5,Ontime
+537709,264,2023-04-06,SiCepat,Bandung,Bojongloa Kidul,Next Day,5,3,Ontime
+735689,249,2022-06-29,JNE,Bandar Lampung,Teluk Betung Selatan,Reguler,1,3,Ontime
+719956,279,2022-09-17,JNE,Medan,Medan Selayang,Reguler,5,3,Ontime
+32371,248,2023-05-29,J&T Express,Depok,Cilodong,Same Day,2,5,Ontime
+948157,171,2022-08-05,JNE,Bekasi,Mustika Jaya,Same Day,4,1,Ontime
+209957,279,2022-12-05,J&T Express,Batam,Galang,Next Day,5,1,Ontime
+885203,246,2022-07-18,POS Indonesia,Bekasi,Pondok Melati,Express,4,3,Ontime
+295175,243,2023-06-02,Ninja Xpress,Medan,Medan Amplas,Reguler,2,4,Ontime
+378305,231,2022-09-07,POS Indonesia,Depok,Mekarsari,Express,3,1,Ontime
+670420,282,2023-03-08,JNE,Yogyakarta,Wirobrajan,Same Day,5,2,Ontime
+505740,146,2023-01-10,J&T Express,Medan,Medan Johor,Next Day,3,1,Ontime
